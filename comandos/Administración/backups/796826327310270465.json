@@ -1,0 +1,4027 @@
+{
+    "name": "⋆ PixelCub | Network ⋆",
+    "region": "brazil",
+    "verificationLevel": "MEDIUM",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "MENTIONS",
+    "afk": {
+        "name": "『🚫』│Sala AFK",
+        "timeout": 300
+    },
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "📊 PixelCub Network 📊",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 1024,
+                        "deny": 825235473
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "All Members: 115",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 PixelCub Network 📊",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 825235473
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "Members: 98",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 PixelCub Network 📊",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 825235473
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "Bots: 17",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 PixelCub Network 📊",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 825235473
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "『🔒』│entrada",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 1024,
+                        "deny": 1050624
+                    },
+                    {
+                        "roleName": "» 📕| Equipo Administrativo",
+                        "allow": 1048576,
+                        "deny": 3072
+                    },
+                    {
+                        "roleName": "🎥| Youtuber",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "💸| MVP+",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "💸| VIP+",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "💸| VIP",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "👤| Usuario",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "『👤』»  Muteado |",
+                        "allow": 0,
+                        "deny": 2048
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『✅』│verificacion",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『🔒』│entrada",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66560,
+                                "deny": 806811729
+                            },
+                            {
+                                "roleName": "💸| Booster",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1048576,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "🖌️| Diseñador",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "🎥| Famoso",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🎥| MiniYT",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "💸| MVP",
+                                "allow": 0,
+                                "deny": 3072
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Zira",
+                                "avatar": "https://cdn.discordapp.com/avatars/275813801792634880/4f41e195b508b7bfb572863daefa83f1.webp",
+                                "content": "<a:Minecraft:758148318122999819> **│Verificación**\n\nBienvenido/a al discord oficial de **PixelCub │Network**\n\nA continuación tendrás que reaccionar al emoji ☑️ para acceder a todo el contenido del servidor. Si necesitas ayuda usa los canales de soporte que proporcionamos en el servidor.\n\nRecuerda recuerda leer las reglas para no terminar sancionado. #『📏』│reglas",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『📏』│reglas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『🔒』│entrada",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 805828689
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『👋』│bienvenidas-despedidas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『🔒』│entrada",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66560,
+                                "deny": 806811729
+                            },
+                            {
+                                "roleName": "💸| Booster",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1048576,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "🖌️| Diseñador",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "🎥| Famoso",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🎥| MiniYT",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "💸| MVP",
+                                "allow": 0,
+                                "deny": 3072
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "InviteLogger",
+                                "avatar": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp",
+                                "content": "Etherium Security is a bot invited by someone on the server",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "InviteLogger",
+                                "avatar": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp",
+                                "content": "No se quien invito **Pokétwo**.",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "『📢』│informacion",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『📢』│anuncios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『📢』│informacion",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "┇📂┇𝐈nformación",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『📢』│informacion",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 0,
+                                "deny": 3072
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "**Mantenimiento**\n\nGente El Discord Se Re Hara Desde 0 Se Estaran Creando Y Configurando Los Canales En La Marcha\nLes pido porfavor no se alteren por ver el discord asi\n\n@everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🎉』│giveaways",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『📢』│informacion",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『✨』│informacion-boost",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『📢』│informacion",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『✨』│boost",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『📢』│informacion",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『▶』│requisitos-media",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『📢』│informacion",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "『🌎』│social",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "『🔊』│Sala Publica 1",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "『🌎』│social",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Famoso",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| MiniYT",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP",
+                                "allow": 3146752,
+                                "deny": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🌎』│chat-general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『🌎』│social",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 2048,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『💻』│comandos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『🌎』│social",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 2048,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🔊』│Sala Publica 2",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "『🌎』│social",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Famoso",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| MiniYT",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP",
+                                "allow": 3146752,
+                                "deny": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "『😂』│memes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『🌎』│social",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 2048,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🔊』│Sala Publica 3",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "『🌎』│social",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Famoso",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| MiniYT",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP",
+                                "allow": 3146752,
+                                "deny": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🚫』│Sala AFK",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "『🌎』│social",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "🎥| Famoso",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "🎥| MiniYT",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 0,
+                                "deny": 2097152
+                            },
+                            {
+                                "roleName": "💸| MVP",
+                                "allow": 1049600,
+                                "deny": 2097152
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🎥』│multimedia",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『🌎』│social",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 2048,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "『🎫』│soporte",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『🎫』│tickets",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『🎫』│soporte",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Ticket Tool",
+                                "avatar": "https://cdn.discordapp.com/avatars/557628352828014614/04cdd55608f6f9942c9ab3bbcab3932c.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Bien, crea un ticket reaccionando con este emoji » 📩\r\nesto creara un canal privado dónde podrás hablar\r\ncon el staff para reclamara rango YouTuber.\r\n\r\nNo abras ticket si no quieres reclamar rango YouTuber",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3706428,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "http://localhost/?panel_id=927975205828073939&panel_type=panel",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/jlHV2y0eO-pKOxsHJVxocwSDehW33RJmOpv0Qquj2HM/%3Fpanel_id%3D927975205828073939%26panel_type%3Dpanel/http/localhost/",
+                                            "height": 0,
+                                            "width": 0
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "¿Quieres reclamar rango YOUTUBER?"
+                                        },
+                                        "footer": {
+                                            "text": "TicketTool.xyz - Ticketing without clutter",
+                                            "icon_url": "https://tickettool.xyz/images/footer.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Ticket Tool",
+                                "avatar": "https://cdn.discordapp.com/avatars/557628352828014614/04cdd55608f6f9942c9ab3bbcab3932c.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Bien, crea un ticket reaccionando con este emoji » 📩.\r\nesto creara un canal privado dónde podrás hablar con la directiva\r\nsobre preguntas del servidor o errores graves.\r\n\r\nNo abras ticket si no tienes ninguna duda con la DIRECTIVA.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3706428,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "http://localhost/?panel_id=104763071349785209&panel_type=panel",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/LHzINctazMpMmbR-Mtu5tCbMuQxh2yBX6D2aouXVzgM/%3Fpanel_id%3D104763071349785209%26panel_type%3Dpanel/http/localhost/",
+                                            "height": 0,
+                                            "width": 0
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "¿Necesitas ayuda de la DIRECTIVA?"
+                                        },
+                                        "footer": {
+                                            "text": "TicketTool.xyz - Ticketing without clutter",
+                                            "icon_url": "https://tickettool.xyz/images/footer.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Ticket Tool",
+                                "avatar": "https://cdn.discordapp.com/avatars/557628352828014614/04cdd55608f6f9942c9ab3bbcab3932c.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Bien, crea un ticket reaccionando con este emoji » 📩\r\nesto creara un canal privado dónde podrás hablar con el staff\r\nsobre preguntas o reportes de errores, bugs o de usuarios.\r\n\r\nNo abras ticket si no necesitas ayuda con el STAFF.",
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 3706428,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "http://localhost/?panel_id=755887000717743854&panel_type=panel",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/Kd4CxUC-shWZ4dX2_rn0Zqrmdnd6CFaU84NsEwJh0Bc/%3Fpanel_id%3D755887000717743854%26panel_type%3Dpanel/http/localhost/",
+                                            "height": 0,
+                                            "width": 0
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "¿Necesitas ayuda del STAFF?"
+                                        },
+                                        "footer": {
+                                            "text": "TicketTool.xyz - Ticketing without clutter",
+                                            "icon_url": "https://tickettool.xyz/images/footer.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🚫』│sanciones",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『🎫』│soporte",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 805764177
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 265216,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "『🎵』│Salas De Musica",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "『🎵』│Sala Musica 1",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "『🎵』│Salas De Musica",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Famoso",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| MiniYT",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP",
+                                "allow": 3146752,
+                                "deny": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🎵』│Sala Musica 2",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "『🎵』│Salas De Musica",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Famoso",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| MiniYT",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP",
+                                "allow": 3146752,
+                                "deny": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🎵』│Sala Musica 3",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "『🎵』│Salas De Musica",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "»  🔖 | Permisos",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Famoso",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| Youtuber",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🎥| MiniYT",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "»  🎥 | Contenido",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP+",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| VIP",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🎓 | Privilegiados",
+                                "allow": 3146752,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "👤| Usuario",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "💸| MVP",
+                                "allow": 3146752,
+                                "deny": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "『👮』│PixelCub Staff",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『👮』│staff-chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『👮』│PixelCub Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🔰| Sancionar",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📚| Directiva",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『💻』│comandos-staff",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『👮』│PixelCub Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🔰| Sancionar",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📚| Directiva",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Xenon",
+                                "avatar": "https://cdn.discordapp.com/avatars/416358583220043796/c1f275964a5fb244361bc9e5e27b9633.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Your Backups",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": null,
+                                        "fields": [
+                                            {
+                                                "name": "41S1PNS9YJ",
+                                                "value": "Planet Hosting | Discord (`27. Nov 2020 - 12:25 UTC`)",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "41R304F1HX",
+                                                "value": "SytixMc Network | Discord (`24. Nov 2020 - 02:26 UTC`)",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Page 1"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "x!backup list",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "InviteLogger",
+                                "avatar": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp",
+                                "content": "⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "The new leave and join messages channel has been successfully set to: <#796643996121825321>",
+                                        "url": null,
+                                        "timestamp": "2021-01-07T07:56:28.852Z",
+                                        "color": 3553599,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Channels config"
+                                        },
+                                        "footer": {
+                                            "text": "InviteLogger • Asked by JuguitoDeMora#0001",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp?size=128"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "¿setchannels",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "InviteLogger",
+                                "avatar": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Welcome to InviteLogger's help.\nMy prefix on this server is `¿`.\nFor more informations about a command, type `¿help <command>`.",
+                                        "url": null,
+                                        "timestamp": "2021-01-07T07:56:12.805Z",
+                                        "color": 3553599,
+                                        "fields": [
+                                            {
+                                                "name": "🏅 Rewarding :",
+                                                "value": "`rankConfig` `addRank` `ranks` `refreshRanks` `removeRank`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "🌀 Config :",
+                                                "value": "`setChannels` `setFakeThreshold` `setLang` `setPermissions` `setPrefix`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "💨 Invites :",
+                                                "value": "`addInvites` `info` `invites` `leaderboard` `removeInvites` `resetInvites` `restoreInvites` `importInvites`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "💠 Utils :",
+                                                "value": "`botinfos` `credits` `getbot` `help` `ping` `test` `vote`",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Links",
+                                                "value": "Add me ! [[here]](https://discord.com/oauth2/authorize?scope=bot&response_type=code&redirect_uri=https://invitelogger.me/dashboard/guilds&permissions=268462304&client_id=499595256270946326)\nMy dashboard ! [[here]](https://invitelogger.me/dashboard/guilds)\nSupport server [[join us]](https://discord.gg/vyQvDKVg7d)\nSupport us ! [[thanks]](https://paypal.me/chaun14)",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp?size=128",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/H8gyiJ3ytGvOM3TFIisGz6MD4RxZyQseO5i7e6r8Xik/%3Fsize%3D128/https/cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "InviteLogger • Asked by JuguitoDeMora#0001",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp?size=128"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "¿help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "InviteLogger",
+                                "avatar": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "✅ The new prefix ( `¿` ) has been successfully set in 14ms.",
+                                        "url": null,
+                                        "timestamp": "2021-01-07T07:56:10.715Z",
+                                        "color": 3553599,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "InviteLogger • Asked by JuguitoDeMora#0001",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp?size=128"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "@​InviteLogger setprefix ¿",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "@​InviteLogger prefix ¿",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "InviteLogger",
+                                "avatar": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Someone tagged me ?\nMy prefix on this server is `/`",
+                                        "url": null,
+                                        "timestamp": "2021-01-07T07:55:58.780Z",
+                                        "color": 3553599,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "InviteLogger • Asked by JuguitoDeMora#0001",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.webp?size=128"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🚫』│sanciones-discord",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『👮』│PixelCub Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🔰| Sancionar",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📚| Directiva",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "**Plantilla De Sancion De Discord**\n\n**Ejemplo:**\n\n**Tag De El Usuario: JuguitoDeMora#0001**\n**Motivo De La Sancion:** Flood 1/3\n**Staff Que Lo Sanciono:** SrAlex#0001\n**Pruebas:** (Link De Las Pruebas)\n\n@» 📗| Equipo de Moderación",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🚫』│sanciones-minecraft",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『👮』│PixelCub Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🔰| Sancionar",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📚| Directiva",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "**Plantilla De Sancion De Discord**\n\n**Ejemplo:**\n\n**Tag De El Usuario: JuguitoDeMora#0001**\n**Motivo De La Sancion:** Flood 1/3\n**Staff Que Lo Sanciono:** SrAlex#0001\n**Servidor En Que Se Sanciono:** SkyPvp\n**Pruebas:** (Link De Las Pruebas)\n\n@» 📗| Equipo de Moderación",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『👋』│actividad-discord",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『👮』│PixelCub Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🔰| Sancionar",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📚| Directiva",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『👋』│actividad-minecraft",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『👮』│PixelCub Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🔰| Sancionar",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📚| Directiva",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『📏』│reglas-staff",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『👮』│PixelCub Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 🔰| Sancionar",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📚| Directiva",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "┇📩┇logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "『👮』│PixelCub Staff",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1049600
+                            },
+                            {
+                                "roleName": "🌟| Fundador",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📕| Equipo Administrativo",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🔱| Staff-Manager",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Admin",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📗| Equipo de Moderación",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Mod+",
+                                "allow": 0,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "⚒️| Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Trial-Mod",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Helper",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "⚒️| Builder",
+                                "allow": 1049600,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "» 📒| Equipo de Soportes",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "『👤』»  Muteado |",
+                                "allow": 0,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📘| Equipo de Builders",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "» 📚| Directiva",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "!!b-crear PixelCub",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Etherium Security",
+                                "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "**Información sobre las copias de seguridad**",
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": "2021-01-07T19:43:13.532Z",
+                                        "color": 11,
+                                        "fields": [
+                                            {
+                                                "name": "!!b-crear <a:ES_verified:770984597437022220>",
+                                                "value": "**Crea una copia de seguridad de TODO el servidor**",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "!!b-cargar [ID] <a:ES_verified:770984597437022220>",
+                                                "value": "**Carga una copia de seguridad a un servidor**",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "!!b-eliminar[ID] <a:ES_verified:770984597437022220>",
+                                                "value": "**Elimina una copia de seguridad**",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Etherium Security",
+                                            "icon_url": "https://images-ext-2.discordapp.net/external/aDQVETPoT8vIkU-nF3gGPkpVIBbP-PmLdlZ_JkZ6vT0/https/thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "!!backup create PixelCub",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Etherium Security",
+                                "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": null,
+                                        "url": null,
+                                        "timestamp": null,
+                                        "color": 11,
+                                        "fields": [
+                                            {
+                                                "name": "Prefix cambiado por:",
+                                                "value": "<@518989258988716063>",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Ahora el prefix es:",
+                                                "value": "!!",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Etherium Security | Prefix",
+                                            "icon_url": "https://images-ext-2.discordapp.net/external/aDQVETPoT8vIkU-nF3gGPkpVIBbP-PmLdlZ_JkZ6vT0/https/thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "JuguitoDeMora",
+                                "avatar": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.webp",
+                                "content": "es/setprefix !!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Logger",
+                                "avatar": "https://cdn.discordapp.com/avatars/782833350065913906/80935ed21a24885698fb6aa45feab106.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Etherium Security#4028 <@!756650662015664208>  was updated",
+                                        "url": null,
+                                        "timestamp": "2021-01-07T19:42:55.923Z",
+                                        "color": 16264609,
+                                        "fields": [
+                                            {
+                                                "name": "Changes",
+                                                "value": "➕ **🤖| Máquinas**",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "ID",
+                                                "value": "```ini\nUser = 756650662015664208\nPerpetrator = 518989258988716063```",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Etherium Security#4028",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.jpg?size=128"
+                                        },
+                                        "footer": {
+                                            "text": "JuguitoDeMora#0001",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.gif?size=128"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Logger",
+                                "avatar": "https://cdn.discordapp.com/avatars/782833350065913906/80935ed21a24885698fb6aa45feab106.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "<@756650662015664208> joined",
+                                        "url": null,
+                                        "timestamp": "2021-01-07T19:42:25.585Z",
+                                        "color": 65280,
+                                        "fields": [
+                                            {
+                                                "name": "Name",
+                                                "value": "Etherium Security#4028 (756650662015664208) <@!756650662015664208>",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Joined At",
+                                                "value": "Thu, 07 Jan 2021 19:42:25 GMT",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Account Age",
+                                                "value": "**110** days",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Member Count",
+                                                "value": "116",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Invite Used",
+                                                "value": "v9usysVjm4 with 31 uses",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "ID",
+                                                "value": "```ini\nMember = 756650662015664208\nGuild = 761990220748292126```",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Etherium Security#4028",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.jpg?size=128"
+                                        },
+                                        "footer": {
+                                            "text": "Logger#6088",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/298822483060981760/c5f04275e99defe458fc7ebbef0d5e72.jpg?size=128"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Logger",
+                                "avatar": "https://cdn.discordapp.com/avatars/782833350065913906/80935ed21a24885698fb6aa45feab106.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Pokétwo#8236 (⚒ Máquina│) was kicked",
+                                        "url": null,
+                                        "timestamp": "2021-01-07T08:00:24.425Z",
+                                        "color": 16711680,
+                                        "fields": [
+                                            {
+                                                "name": "User Information",
+                                                "value": "Pokétwo#8236 (716390085896962058) <@!716390085896962058> \nIs a bot",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Roles",
+                                                "value": "🤖| Máquinas",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Joined At",
+                                                "value": "Sun, 29 Nov 2020 21:24:08 GMT (38 days, 923 hours ago)",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Created At",
+                                                "value": "Sat, 30 May 2020 20:38:26 GMT (221 days, 5315 hours old)",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Reason",
+                                                "value": "None provided",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "ID",
+                                                "value": "```ini\nUser = 716390085896962058\nPerpetrator = 518989258988716063```",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Pokétwo#8236 (⚒ Máquina│)",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/716390085896962058/2489a9b2c2eb951ed908be416ced10a2.jpg?size=128"
+                                        },
+                                        "footer": {
+                                            "text": "JuguitoDeMora#0001",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.gif?size=128"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Logger",
+                                "avatar": "https://cdn.discordapp.com/avatars/782833350065913906/80935ed21a24885698fb6aa45feab106.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Message deleted in <#796643799107239977>",
+                                        "url": null,
+                                        "timestamp": "2021-01-07T07:56:28.761Z",
+                                        "color": 8530669,
+                                        "fields": [
+                                            {
+                                                "name": "Content",
+                                                "value": "<\\#796643996121825321>",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "ID",
+                                                "value": "```ini\nUser = 518989258988716063\nMessage = 796648437507686430```",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "Date",
+                                                "value": "Thu, 07 Jan 2021 07:56:28 GMT",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "JuguitoDeMora#0001",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.gif?size=128"
+                                        },
+                                        "footer": {
+                                            "text": "Logger#6088",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/298822483060981760/c5f04275e99defe458fc7ebbef0d5e72.jpg?size=128"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Logger",
+                                "avatar": "https://cdn.discordapp.com/avatars/782833350065913906/80935ed21a24885698fb6aa45feab106.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "InviteLogger#5780 <@!499595256270946326>  was updated",
+                                        "url": null,
+                                        "timestamp": "2021-01-07T07:55:28.710Z",
+                                        "color": 16264609,
+                                        "fields": [
+                                            {
+                                                "name": "Changes",
+                                                "value": "➕ **🤖| Máquinas**",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "ID",
+                                                "value": "```ini\nUser = 499595256270946326\nPerpetrator = 518989258988716063```",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "InviteLogger#5780",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/499595256270946326/6941e24433dfff009eda3e6786c3f899.jpg?size=128"
+                                        },
+                                        "footer": {
+                                            "text": "JuguitoDeMora#0001",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/518989258988716063/a_7094f9946ca10e1f0fbbf5c76c5b96e8.gif?size=128"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "Tickets Abiertos Staff",
+                "permissions": [],
+                "children": []
+            },
+            {
+                "name": "Tickets Cerrados Staffs",
+                "permissions": [],
+                "children": []
+            },
+            {
+                "name": "Tickets Abiertos Directiva",
+                "permissions": [],
+                "children": []
+            },
+            {
+                "name": "Tickets Cerrados Directiva",
+                "permissions": [],
+                "children": []
+            },
+            {
+                "name": "Tickets Abiertos Youtuber",
+                "permissions": [],
+                "children": []
+            },
+            {
+                "name": "Tickets Cerrados youtuber",
+                "permissions": [],
+                "children": []
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "» OP",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 2146959103,
+            "mentionable": false,
+            "position": 61
+        },
+        {
+            "name": "▃▃▃▃▃▃▃▃",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": 33620993,
+            "mentionable": false,
+            "position": 58
+        },
+        {
+            "name": "🌟| Fundador",
+            "color": "#ff8200",
+            "hoist": true,
+            "permissions": 2147483647,
+            "mentionable": false,
+            "position": 57
+        },
+        {
+            "name": "🌟| Owner",
+            "color": "#d80e0e",
+            "hoist": true,
+            "permissions": 2147483615,
+            "mentionable": false,
+            "position": 56
+        },
+        {
+            "name": "🔱| Staff-Manager",
+            "color": "#7831c5",
+            "hoist": true,
+            "permissions": 2147483615,
+            "mentionable": false,
+            "position": 55
+        },
+        {
+            "name": "🛠| Configurador",
+            "color": "#676cfc",
+            "hoist": true,
+            "permissions": 2146959071,
+            "mentionable": false,
+            "position": 54
+        },
+        {
+            "name": "🤖| Bots Propios",
+            "color": "#00daff",
+            "hoist": true,
+            "permissions": 2080441535,
+            "mentionable": false,
+            "position": 53
+        },
+        {
+            "name": "⚒️| Admin",
+            "color": "#ee5050",
+            "hoist": true,
+            "permissions": 267779271,
+            "mentionable": false,
+            "position": 52
+        },
+        {
+            "name": "⚒️| Mod+",
+            "color": "#39df28",
+            "hoist": true,
+            "permissions": 66452551,
+            "mentionable": false,
+            "position": 51
+        },
+        {
+            "name": "⚒️| Mod",
+            "color": "#408f5a",
+            "hoist": true,
+            "permissions": 66452551,
+            "mentionable": false,
+            "position": 50
+        },
+        {
+            "name": "⚒️| Trial-Mod",
+            "color": "#6fa9de",
+            "hoist": true,
+            "permissions": 66452551,
+            "mentionable": false,
+            "position": 49
+        },
+        {
+            "name": "⚒️| Helper",
+            "color": "#e4b400",
+            "hoist": true,
+            "permissions": 3529793,
+            "mentionable": false,
+            "position": 48
+        },
+        {
+            "name": "⚒️| Builder",
+            "color": "#1b5f9c",
+            "hoist": true,
+            "permissions": 41274433,
+            "mentionable": false,
+            "position": 47
+        },
+        {
+            "name": "▃▃▃▃▃▃▃▃",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": 33620993,
+            "mentionable": false,
+            "position": 46
+        },
+        {
+            "name": "» 📚| Directiva",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": 37028929,
+            "mentionable": false,
+            "position": 45
+        },
+        {
+            "name": "» 📕| Equipo Administrativo",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": 3474497,
+            "mentionable": false,
+            "position": 44
+        },
+        {
+            "name": "» 📗| Equipo de Moderación",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": 3474497,
+            "mentionable": false,
+            "position": 43
+        },
+        {
+            "name": "» 📒| Equipo de Soportes",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": 3474497,
+            "mentionable": false,
+            "position": 42
+        },
+        {
+            "name": "» 📘| Equipo de Builders",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": 37028929,
+            "mentionable": false,
+            "position": 41
+        },
+        {
+            "name": "▃▃▃▃▃▃▃▃",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": 33620993,
+            "mentionable": false,
+            "position": 40
+        },
+        {
+            "name": "» 🔻| Advertencia",
+            "color": "#e73c3c",
+            "hoist": false,
+            "permissions": 3474497,
+            "mentionable": false,
+            "position": 39
+        },
+        {
+            "name": "» 🚫| Suspendido",
+            "color": "#a84300",
+            "hoist": false,
+            "permissions": 334849,
+            "mentionable": false,
+            "position": 38
+        },
+        {
+            "name": "» 🔰| Sancionar",
+            "color": "#11806a",
+            "hoist": false,
+            "permissions": 3474503,
+            "mentionable": false,
+            "position": 37
+        },
+        {
+            "name": "▃▃▃▃▃▃▃▃",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": 33620993,
+            "mentionable": false,
+            "position": 36
+        },
+        {
+            "name": "🖌️| Diseñador",
+            "color": "#9b59b6",
+            "hoist": true,
+            "permissions": 37029057,
+            "mentionable": false,
+            "position": 35
+        },
+        {
+            "name": "🎥| Famoso",
+            "color": "#c16ac6",
+            "hoist": true,
+            "permissions": 3529793,
+            "mentionable": false,
+            "position": 34
+        },
+        {
+            "name": "🎥| Youtuber",
+            "color": "#f05f5f",
+            "hoist": true,
+            "permissions": 3529793,
+            "mentionable": false,
+            "position": 33
+        },
+        {
+            "name": "🎥| MiniYT",
+            "color": "#e94e4e",
+            "hoist": true,
+            "permissions": 3529793,
+            "mentionable": false,
+            "position": 32
+        },
+        {
+            "name": "▃▃▃▃▃▃▃▃",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": 33620993,
+            "mentionable": false,
+            "position": 31
+        },
+        {
+            "name": "💸| MVP+",
+            "color": "#07f5ee",
+            "hoist": true,
+            "permissions": 3529793,
+            "mentionable": false,
+            "position": 29
+        },
+        {
+            "name": "💸| MVP",
+            "color": "#0dd3ce",
+            "hoist": true,
+            "permissions": 37028929,
+            "mentionable": false,
+            "position": 28
+        },
+        {
+            "name": "💸| VIP+",
+            "color": "#06f811",
+            "hoist": true,
+            "permissions": 3529793,
+            "mentionable": false,
+            "position": 27
+        },
+        {
+            "name": "💸| VIP",
+            "color": "#07c417",
+            "hoist": true,
+            "permissions": 3529793,
+            "mentionable": false,
+            "position": 26
+        },
+        {
+            "name": "▃▃▃▃▃▃▃▃",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": 33620993,
+            "mentionable": false,
+            "position": 25
+        },
+        {
+            "name": "»  🔖 | Permisos",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": 328769,
+            "mentionable": false,
+            "position": 24
+        },
+        {
+            "name": "»  🎥 | Contenido",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": 3530305,
+            "mentionable": false,
+            "position": 23
+        },
+        {
+            "name": "» 🎓 | Privilegiados",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": 3525697,
+            "mentionable": false,
+            "position": 22
+        },
+        {
+            "name": "▃▃▃▃▃▃▃▃",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": 33620993,
+            "mentionable": false,
+            "position": 21
+        },
+        {
+            "name": "『👤』»  Muteado |",
+            "color": "#e74c3c",
+            "hoist": false,
+            "permissions": 33883137,
+            "mentionable": false,
+            "position": 19
+        },
+        {
+            "name": "👤| Postulante",
+            "color": "#1abc9c",
+            "hoist": true,
+            "permissions": 33883137,
+            "mentionable": false,
+            "position": 18
+        },
+        {
+            "name": "👤| Usuario",
+            "color": "#9e9c95",
+            "hoist": true,
+            "permissions": 3525697,
+            "mentionable": false,
+            "position": 17
+        },
+        {
+            "name": "🤖| Máquinas",
+            "color": "#f82da1",
+            "hoist": true,
+            "permissions": 2142731519,
+            "mentionable": false,
+            "position": 16
+        }
+    ],
+    "bans": [
+        {
+            "id": "381168311750098948",
+            "reason": "Unspecified"
+        },
+        {
+            "id": "422740656537075713",
+            "reason": "Unspecified"
+        },
+        {
+            "id": "580920767961759746",
+            "reason": null
+        },
+        {
+            "id": "607913404836872204",
+            "reason": null
+        },
+        {
+            "id": "665722478152384522",
+            "reason": "a ok\n\nbye? "
+        },
+        {
+            "id": "673348744254717961",
+            "reason": null
+        },
+        {
+            "id": "719637678114472129",
+            "reason": "mongol ya no entraras jsjsj yashiro\n"
+        },
+        {
+            "id": "754704891838070826",
+            "reason": "Pasar links pornográficos.\n"
+        }
+    ],
+    "emojis": [
+        {
+            "name": "triste",
+            "url": "https://cdn.discordapp.com/emojis/762528236058968074.png"
+        },
+        {
+            "name": "dah",
+            "url": "https://cdn.discordapp.com/emojis/779705276105228289.png"
+        },
+        {
+            "name": "kokoro",
+            "url": "https://cdn.discordapp.com/emojis/782759092733083678.gif"
+        },
+        {
+            "name": "dekuhit",
+            "url": "https://cdn.discordapp.com/emojis/782759100583903262.gif"
+        },
+        {
+            "name": "ASJDJAS",
+            "url": "https://cdn.discordapp.com/emojis/782759117353779231.png"
+        },
+        {
+            "name": "FBI",
+            "url": "https://cdn.discordapp.com/emojis/782759119680831509.png"
+        },
+        {
+            "name": "200iq",
+            "url": "https://cdn.discordapp.com/emojis/782759123833454622.png"
+        },
+        {
+            "name": "stonks",
+            "url": "https://cdn.discordapp.com/emojis/782759127549870161.png"
+        },
+        {
+            "name": "polish",
+            "url": "https://cdn.discordapp.com/emojis/782759127989485589.png"
+        },
+        {
+            "name": "YES",
+            "url": "https://cdn.discordapp.com/emojis/782759131031142401.png"
+        },
+        {
+            "name": "bruh",
+            "url": "https://cdn.discordapp.com/emojis/782759132972187691.png"
+        },
+        {
+            "name": "love",
+            "url": "https://cdn.discordapp.com/emojis/782759134713348147.png"
+        },
+        {
+            "name": "tabn",
+            "url": "https://cdn.discordapp.com/emojis/782759136953630742.png"
+        },
+        {
+            "name": "NoStonks",
+            "url": "https://cdn.discordapp.com/emojis/782759137141456957.png"
+        },
+        {
+            "name": "DIO",
+            "url": "https://cdn.discordapp.com/emojis/782759137926840370.png"
+        },
+        {
+            "name": "messirve",
+            "url": "https://cdn.discordapp.com/emojis/782759139620814869.png"
+        },
+        {
+            "name": "jajawtf",
+            "url": "https://cdn.discordapp.com/emojis/782759142166626315.png"
+        },
+        {
+            "name": "jojo",
+            "url": "https://cdn.discordapp.com/emojis/782759142195855370.gif"
+        },
+        {
+            "name": "uwu",
+            "url": "https://cdn.discordapp.com/emojis/782759144494465026.png"
+        },
+        {
+            "name": "ehmmmm",
+            "url": "https://cdn.discordapp.com/emojis/782759144800387122.png"
+        },
+        {
+            "name": "ctmelping",
+            "url": "https://cdn.discordapp.com/emojis/782759145363210250.png"
+        },
+        {
+            "name": "bb",
+            "url": "https://cdn.discordapp.com/emojis/782759147753439262.png"
+        },
+        {
+            "name": "que",
+            "url": "https://cdn.discordapp.com/emojis/782759148412076042.png"
+        },
+        {
+            "name": "erigey",
+            "url": "https://cdn.discordapp.com/emojis/782759148706070559.png"
+        },
+        {
+            "name": "cagaste",
+            "url": "https://cdn.discordapp.com/emojis/782759152429826098.png"
+        },
+        {
+            "name": "owo",
+            "url": "https://cdn.discordapp.com/emojis/782759153114021895.png"
+        },
+        {
+            "name": "signo",
+            "url": "https://cdn.discordapp.com/emojis/782759154745081876.gif"
+        },
+        {
+            "name": "buenosdias",
+            "url": "https://cdn.discordapp.com/emojis/782759156385579038.png"
+        },
+        {
+            "name": "simp",
+            "url": "https://cdn.discordapp.com/emojis/782759156825456691.png"
+        },
+        {
+            "name": "check",
+            "url": "https://cdn.discordapp.com/emojis/782759166715887686.gif"
+        },
+        {
+            "name": "sirena",
+            "url": "https://cdn.discordapp.com/emojis/782759167206359060.gif"
+        },
+        {
+            "name": "tenemos",
+            "url": "https://cdn.discordapp.com/emojis/782759167785828422.png"
+        },
+        {
+            "name": "PeepeNitroBoost",
+            "url": "https://cdn.discordapp.com/emojis/782759175397834763.gif"
+        },
+        {
+            "name": "baile",
+            "url": "https://cdn.discordapp.com/emojis/782759185628135496.gif"
+        },
+        {
+            "name": "boost",
+            "url": "https://cdn.discordapp.com/emojis/782759191168286720.gif"
+        },
+        {
+            "name": "FlechaRGB",
+            "url": "https://cdn.discordapp.com/emojis/782759192494342144.gif"
+        },
+        {
+            "name": "FuckMeBabe",
+            "url": "https://cdn.discordapp.com/emojis/782759199514820678.gif"
+        },
+        {
+            "name": "xd",
+            "url": "https://cdn.discordapp.com/emojis/782759199649431602.gif"
+        },
+        {
+            "name": "calculando",
+            "url": "https://cdn.discordapp.com/emojis/782759200254066688.gif"
+        },
+        {
+            "name": "AHHESUNTIO",
+            "url": "https://cdn.discordapp.com/emojis/782759200652001281.gif"
+        },
+        {
+            "name": "verified",
+            "url": "https://cdn.discordapp.com/emojis/782759203214983208.gif"
+        },
+        {
+            "name": "PixelCub",
+            "url": "https://cdn.discordapp.com/emojis/783580352852787240.png"
+        }
+    ],
+    "createdTimestamp": 1610048600748,
+    "guildID": "761990220748292126",
+    "id": "796826327310270465",
+    "iconURL": "https://cdn.discordapp.com/icons/761990220748292126/cbb0b5dc0e81bc4398e0971791572c52.webp",
+    "splashURL": "https://cdn.discordapp.com/splashes/761990220748292126/405cacf52f9058434452f86f36107a54.webp"
+}

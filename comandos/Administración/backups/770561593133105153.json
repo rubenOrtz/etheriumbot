@@ -1,0 +1,319 @@
+{
+    "name": "SpaceBot Actualizaciones Test",
+    "region": "brazil",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "Canales de voz",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "General",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Canales de voz",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Canales de texto",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "general",
+                        "nsfw": true,
+                        "rateLimitPerUser": 0,
+                        "parent": "Canales de texto",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "SrRodri | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/310158154510106635/324cc9859a19fcd01db129d0a5c28977.webp",
+                                "content": "$b-crear",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MartoOo | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/392904909231489024/a_36cbc4f924255ea92cf3deb1876475f5.webp",
+                                "content": "SI VAS A METER BACKUP ESPERA",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MartoOo | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/392904909231489024/a_36cbc4f924255ea92cf3deb1876475f5.webp",
+                                "content": "xD",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "SrRodri | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/310158154510106635/324cc9859a19fcd01db129d0a5c28977.webp",
+                                "content": "ndeah",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "SrRodri | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/310158154510106635/324cc9859a19fcd01db129d0a5c28977.webp",
+                                "content": "asi me gusta",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MartoOo | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/392904909231489024/a_36cbc4f924255ea92cf3deb1876475f5.webp",
+                                "content": "Ahi ta",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Space Bot | Acts",
+                                "avatar": "https://cdn.discordapp.com/avatars/762103584334020649/916a85b1bbfceeeba90152b0e58e5fa1.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Protege tu servidor con Etherium Security e invitame!",
+                                        "type": "rich",
+                                        "description": "`¡Clickea el Titulo!`",
+                                        "url": "https://discord.com/oauth2/authorize?client_id=756650662015664208&scope=bot&permissions=2080898303",
+                                        "timestamp": "2020-10-27T08:16:00.091Z",
+                                        "color": 11,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Etherium Security",
+                                            "icon_url": "https://images-ext-2.discordapp.net/external/aDQVETPoT8vIkU-nF3gGPkpVIBbP-PmLdlZ_JkZ6vT0/https/thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "! Konra",
+                                "avatar": "https://cdn.discordapp.com/avatars/417098178479915018/a_76934ffc6188382f02f5ec490239bb2d.webp",
+                                "content": "$invite",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MartoOo | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/392904909231489024/a_36cbc4f924255ea92cf3deb1876475f5.webp",
+                                "content": "Voy",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "! Konra",
+                                "avatar": "https://cdn.discordapp.com/avatars/417098178479915018/a_76934ffc6188382f02f5ec490239bb2d.webp",
+                                "content": "A ver lo voy a probar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "nuevo",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Canales de texto",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 2048,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "MartoOo | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/392904909231489024/a_36cbc4f924255ea92cf3deb1876475f5.webp",
+                                "content": "`657405690180141103` **BLACKLIST**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MartoOo | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/392904909231489024/a_36cbc4f924255ea92cf3deb1876475f5.webp",
+                                "content": "`758038359070474311` **BLACKLLIST**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MartoOo | ᵈᵉᵛ |",
+                                "avatar": "https://cdn.discordapp.com/avatars/392904909231489024/a_36cbc4f924255ea92cf3deb1876475f5.webp",
+                                "content": "`Setprefix` <a:AnimatedCheckMark:760110496900055070> \n`Kick` <a:AnimatedCheckMark:760110496900055070> \n`Ban` <a:AnimatedCheckMark:760110496900055070> \n`UnBan` <a:AnimatedCheckMark:760110496900055070> \n`Developers CMD`\n`Developer DB` <a:SB_CheckMarck:769915075003547678> \n`Sorteos`\n`Log's`\n`AntiFlood` <a:SB_CheckMarck:769915075003547678> \n`Lock (AntiRaid)` <a:SB_CheckMarck:769903863703797777> \n`AntiIPloggers (Comunes)`\n`Vip's [Funciones no definidas por el momento]`\n`SoS (Soporte - Bot)`<a:SB_CheckMarck:769915075003547678> \n`Sugerencia (Soporte - Bot)` <a:SB_CheckMarck:769915075003547678> \n`Soporte (Soporte - Bot)`<a:SB_CheckMarck:769915075003547678> \n`Invites` <a:AnimatedCheckMark:760110496900055070>  (__ Beta __)\n`Bienvenida`\n`Despedida`",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "*",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 2
+        }
+    ],
+    "bans": [],
+    "emojis": [
+        {
+            "name": "SB_Rosa",
+            "url": "https://cdn.discordapp.com/emojis/769915033051594783.gif"
+        },
+        {
+            "name": "SB_Azul",
+            "url": "https://cdn.discordapp.com/emojis/769915060796915723.gif"
+        },
+        {
+            "name": "Load",
+            "url": "https://cdn.discordapp.com/emojis/769915061103493170.gif"
+        },
+        {
+            "name": "SB_Rojo",
+            "url": "https://cdn.discordapp.com/emojis/769915061166669824.gif"
+        },
+        {
+            "name": "SB_Rosa",
+            "url": "https://cdn.discordapp.com/emojis/769915061170602066.gif"
+        },
+        {
+            "name": "SB_Twitch",
+            "url": "https://cdn.discordapp.com/emojis/769915061216083998.png"
+        },
+        {
+            "name": "SB_Love",
+            "url": "https://cdn.discordapp.com/emojis/769915061254750239.gif"
+        },
+        {
+            "name": "SB_Si",
+            "url": "https://cdn.discordapp.com/emojis/769915061534851092.png"
+        },
+        {
+            "name": "SB_Youtube",
+            "url": "https://cdn.discordapp.com/emojis/769915061623586837.png"
+        },
+        {
+            "name": "SB_Instagra",
+            "url": "https://cdn.discordapp.com/emojis/769915061912469525.png"
+        },
+        {
+            "name": "SB_Twitter",
+            "url": "https://cdn.discordapp.com/emojis/769915061929902103.png"
+        },
+        {
+            "name": "SB_Argentina",
+            "url": "https://cdn.discordapp.com/emojis/769915061984296961.gif"
+        },
+        {
+            "name": "SB_No",
+            "url": "https://cdn.discordapp.com/emojis/769915062537420800.png"
+        },
+        {
+            "name": "Dev",
+            "url": "https://cdn.discordapp.com/emojis/769915065730072618.gif"
+        },
+        {
+            "name": "SB_Boost",
+            "url": "https://cdn.discordapp.com/emojis/769915067042496523.gif"
+        },
+        {
+            "name": "SB_Dance",
+            "url": "https://cdn.discordapp.com/emojis/769915069113958440.gif"
+        },
+        {
+            "name": "1Gato",
+            "url": "https://cdn.discordapp.com/emojis/769915071186468904.gif"
+        },
+        {
+            "name": "SB_Twitch_2",
+            "url": "https://cdn.discordapp.com/emojis/769915074730393610.gif"
+        },
+        {
+            "name": "SB_CheckMarck",
+            "url": "https://cdn.discordapp.com/emojis/769915075003547678.gif"
+        },
+        {
+            "name": "SB_Verificado_Negro",
+            "url": "https://cdn.discordapp.com/emojis/769915075196354560.gif"
+        },
+        {
+            "name": "SB_Aceptado",
+            "url": "https://cdn.discordapp.com/emojis/769915082128752660.gif"
+        },
+        {
+            "name": "SB_Rechazado",
+            "url": "https://cdn.discordapp.com/emojis/769915085568606259.gif"
+        },
+        {
+            "name": "SB_Loli",
+            "url": "https://cdn.discordapp.com/emojis/769915086449278977.gif"
+        },
+        {
+            "name": "SB_Verificado_Azul",
+            "url": "https://cdn.discordapp.com/emojis/769915089363927070.gif"
+        },
+        {
+            "name": "SB_Loading",
+            "url": "https://cdn.discordapp.com/emojis/769988410751713281.gif"
+        },
+        {
+            "name": "SB_Premium",
+            "url": "https://cdn.discordapp.com/emojis/770007044551213068.png"
+        }
+    ],
+    "createdTimestamp": 1603786600145,
+    "guildID": "769875211175591967",
+    "id": "770561593133105153"
+}

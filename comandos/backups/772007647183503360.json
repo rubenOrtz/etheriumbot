@@ -1,0 +1,2264 @@
+{
+    "name": "North Basis - Police Departament",
+    "region": "brazil",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "CONFIGURACIÓN DISCORD",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Discord Admin",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Fundador",
+                        "allow": 34078017,
+                        "deny": 837812752
+                    },
+                    {
+                        "roleName": "Co-Fundador",
+                        "allow": 34078017,
+                        "deny": 837812752
+                    },
+                    {
+                        "roleName": "Sistema Bot",
+                        "allow": 34078017,
+                        "deny": 837812752
+                    },
+                    {
+                        "roleName": "Verificado",
+                        "allow": 0,
+                        "deny": 871890769
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "configuración",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CONFIGURACIÓN DISCORD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 34078017,
+                                "deny": 837812752
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 34078017,
+                                "deny": 837812752
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 34078017,
+                                "deny": 837812752
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "LOGS GENERAL",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Discord Admin",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Co-Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Sistema Bot",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Verificado",
+                        "allow": 0,
+                        "deny": 871890769
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS GENERAL",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "VERIFICADOR",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 66561,
+                        "deny": 871824208
+                    },
+                    {
+                        "roleName": "Discord Admin",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Co-Fundador",
+                        "allow": 261121,
+                        "deny": 871629648
+                    },
+                    {
+                        "roleName": "Sistema Bot",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Verificado",
+                        "allow": 0,
+                        "deny": 871890769
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「🔒」・verificación",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "VERIFICADOR",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "INFORMACIÓN",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Discord Admin",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Co-Fundador",
+                        "allow": 261121,
+                        "deny": 871629648
+                    },
+                    {
+                        "roleName": "Jefe de Policía",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Jefe de Adjunto",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "- FTO -",
+                        "allow": 66561,
+                        "deny": 871824208
+                    },
+                    {
+                        "roleName": "- LSPD -",
+                        "allow": 66561,
+                        "deny": 871824208
+                    },
+                    {
+                        "roleName": "Sistema Bot",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Verificado",
+                        "allow": 66561,
+                        "deny": 871824208
+                    },
+                    {
+                        "roleName": "Director General",
+                        "allow": 523329,
+                        "deny": 871367440
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "⌠📣⌡・anuncios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠📜⌡・reglamentos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠📋⌡・formularios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠⭐⌡・académias",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "INFORMACIÓN LSPD",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1049600
+                    },
+                    {
+                        "roleName": "Discord Admin",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Co-Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Jefe de Policía",
+                        "allow": 261121,
+                        "deny": 871629648
+                    },
+                    {
+                        "roleName": "Jefe de Adjunto",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "- FTO -",
+                        "allow": 66561,
+                        "deny": 871824208
+                    },
+                    {
+                        "roleName": "- LSPD -",
+                        "allow": 66561,
+                        "deny": 871824208
+                    },
+                    {
+                        "roleName": "Sistema Bot",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Verificado",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Director General",
+                        "allow": 261121,
+                        "deny": 871629648
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "⌠📣⌡・anuncios-lspd",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠📜⌡・reglamentos-lspd",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「📻」・códigos-radial",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「📻」・códigos-penáles",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠📁⌡・multas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠📛⌡・advertencias",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠📁⌡・rangos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "INFORMACIÓN LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 66561,
+                                "deny": 871824208
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "CHATS GENERALES LSPD",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1049600
+                    },
+                    {
+                        "roleName": "Discord Admin",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Co-Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Jefe de Policía",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Jefe de Adjunto",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "- FTO -",
+                        "allow": 68609,
+                        "deny": 871822160
+                    },
+                    {
+                        "roleName": "- LSPD -",
+                        "allow": 68609,
+                        "deny": 871822160
+                    },
+                    {
+                        "roleName": "Sistema Bot",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Verificado",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Director General",
+                        "allow": 523329,
+                        "deny": 871367440
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "⌠💬⌡・general-lspd",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CHATS GENERALES LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠💻⌡・comandos-lspd",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CHATS GENERALES LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠📜⌡・mods-cleos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CHATS GENERALES LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠📜⌡・plantilla-asignaciónes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CHATS GENERALES LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「❗」・busqueda-y-captúra",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CHATS GENERALES LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🚔」・información-personal",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CHATS GENERALES LSPD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 261121,
+                                "deny": 871629648
+                            },
+                            {
+                                "roleName": "Jefe de Policía",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Jefe de Adjunto",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 68609,
+                                "deny": 871822160
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Director General",
+                                "allow": 523329,
+                                "deny": 871367440
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "CÚPULA ADMINISTRATIVA",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Discord Admin",
+                        "allow": 490561,
+                        "deny": 871400208
+                    },
+                    {
+                        "roleName": "Fundador",
+                        "allow": 228353,
+                        "deny": 871662416
+                    },
+                    {
+                        "roleName": "Co-Fundador",
+                        "allow": 490561,
+                        "deny": 871400208
+                    },
+                    {
+                        "roleName": "- FTO -",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "- LSPD -",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Sistema Bot",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Verificado",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Comisión Administrativa",
+                        "allow": 490561,
+                        "deny": 871400208
+                    },
+                    {
+                        "roleName": "Supervisor del Departamento",
+                        "allow": 228353,
+                        "deny": 871662416
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「📘」・cúpula-administrativa",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CÚPULA ADMINISTRATIVA",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 490561,
+                                "deny": 871400208
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 228353,
+                                "deny": 871662416
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 490561,
+                                "deny": 871400208
+                            },
+                            {
+                                "roleName": "- FTO -",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Comisión Administrativa",
+                                "allow": 490561,
+                                "deny": 871400208
+                            },
+                            {
+                                "roleName": "Supervisor del Departamento",
+                                "allow": 228353,
+                                "deny": 871662416
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "CHATS DE USUARIOS",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Discord Admin",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Co-Fundador",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "- LSPD -",
+                        "allow": 0,
+                        "deny": 871890769
+                    },
+                    {
+                        "roleName": "Sistema Bot",
+                        "allow": 523329,
+                        "deny": 871367440
+                    },
+                    {
+                        "roleName": "Verificado",
+                        "allow": 68609,
+                        "deny": 871822160
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "⌠💬⌡・usuarios-verificados",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CHATS DE USUARIOS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 68609,
+                                "deny": 871822160
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⌠💻⌡・comandos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "CHATS DE USUARIOS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Discord Admin",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Co-Fundador",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "- LSPD -",
+                                "allow": 0,
+                                "deny": 871890769
+                            },
+                            {
+                                "roleName": "Sistema Bot",
+                                "allow": 523329,
+                                "deny": 871367440
+                            },
+                            {
+                                "roleName": "Verificado",
+                                "allow": 68609,
+                                "deny": 871822160
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "Discord Admin",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 2146959359,
+            "mentionable": false,
+            "position": 54
+        },
+        {
+            "name": "↠ STAFF ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 52
+        },
+        {
+            "name": "Fundador",
+            "color": "#a0dbf7",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 51
+        },
+        {
+            "name": "Co-Fundador",
+            "color": "#a0dbf7",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 50
+        },
+        {
+            "name": "↠ LSPD ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 49
+        },
+        {
+            "name": "Jefe de Policía",
+            "color": "#6f82ff",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 48
+        },
+        {
+            "name": "Jefe de Adjunto",
+            "color": "#6f82ff",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 47
+        },
+        {
+            "name": "Director General",
+            "color": "#f46868",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 46
+        },
+        {
+            "name": "Comandante",
+            "color": "#f46868",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 45
+        },
+        {
+            "name": "Capitán",
+            "color": "#e67e22",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 44
+        },
+        {
+            "name": "Teniente II",
+            "color": "#6bf0c1",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 43
+        },
+        {
+            "name": "Teniente I",
+            "color": "#6bf0c1",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 42
+        },
+        {
+            "name": "Sargento II",
+            "color": "#78ff8f",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 41
+        },
+        {
+            "name": "Sargento I",
+            "color": "#78ff8f",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 40
+        },
+        {
+            "name": "Detective III",
+            "color": "#f578ff",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 39
+        },
+        {
+            "name": "Detective II",
+            "color": "#f578ff",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 38
+        },
+        {
+            "name": "Detective I",
+            "color": "#f578ff",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 37
+        },
+        {
+            "name": "Police III+",
+            "color": "#74bfde",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 36
+        },
+        {
+            "name": "Police III",
+            "color": "#74bfde",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 35
+        },
+        {
+            "name": "Police II",
+            "color": "#74bfde",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 34
+        },
+        {
+            "name": "Police I",
+            "color": "#74bfde",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 33
+        },
+        {
+            "name": "Cadete",
+            "color": "#74bfde",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 32
+        },
+        {
+            "name": "Aspirante",
+            "color": "#b786ff",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 31
+        },
+        {
+            "name": "↠ DEPARTAMENTAL ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 30
+        },
+        {
+            "name": "Supervisor del Departamento",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 29
+        },
+        {
+            "name": "Comisión Directiva",
+            "color": "#e67e22",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 28
+        },
+        {
+            "name": "Comisión Administrativa",
+            "color": "#e67e22",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 27
+        },
+        {
+            "name": "Asuntos Internos",
+            "color": "#e67e22",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 26
+        },
+        {
+            "name": "↠ METROPOLITAN DIVISIÓN ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 25
+        },
+        {
+            "name": "Lider de Metropólitan",
+            "color": "#e67e22",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 24
+        },
+        {
+            "name": "Miembro de Metropólitan",
+            "color": "#e67e22",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 23
+        },
+        {
+            "name": "↠ TRANSITO DIVISIÓN ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 22
+        },
+        {
+            "name": "Lider de Tránsito",
+            "color": "#eafe65",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 21
+        },
+        {
+            "name": "Miembro de Tránsito",
+            "color": "#eafe65",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 20
+        },
+        {
+            "name": "↠ AIR SUPPORT DIVISIÓN ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 19
+        },
+        {
+            "name": "Lider de Air Support",
+            "color": "#65d1e9",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 18
+        },
+        {
+            "name": "Miembro de Air Support",
+            "color": "#65d1e9",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 17
+        },
+        {
+            "name": "↠ S.W.A.T DIVISIÓN ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 16
+        },
+        {
+            "name": "Lider de S.W.A.T",
+            "color": "#858585",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 15
+        },
+        {
+            "name": "Miembro de S.W.A.T",
+            "color": "#858585",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 14
+        },
+        {
+            "name": "↠ INVESTIGACIÓN DIVISIÓN ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 13
+        },
+        {
+            "name": "Lider de Investigación",
+            "color": "#66f478",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 12
+        },
+        {
+            "name": "Miembro de Investigación",
+            "color": "#66f478",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 11
+        },
+        {
+            "name": "↠ ACADÉMIAS ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 10
+        },
+        {
+            "name": "Encargado Académico",
+            "color": "#ff6b6b",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 9
+        },
+        {
+            "name": "Profesor Académico",
+            "color": "#ff6b6b",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 8
+        },
+        {
+            "name": "↠ LSPD PREFIJO ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 7
+        },
+        {
+            "name": "- FTO -",
+            "color": "#2ecc71",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 6
+        },
+        {
+            "name": "- LSPD -",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 5
+        },
+        {
+            "name": "↠ SISTEMAS DISCORD ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 4
+        },
+        {
+            "name": "Sistema Bot",
+            "color": "#607d8b",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 3
+        },
+        {
+            "name": "↠ VERIFICACIÓN ↞",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 2
+        },
+        {
+            "name": "Verificado",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 1
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1604131366297,
+    "guildID": "771971444376207410",
+    "id": "772007647183503360"
+}

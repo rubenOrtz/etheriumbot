@@ -1,0 +1,654 @@
+{
+    "name": "ByleHs",
+    "region": "brazil",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "• Verificación",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 66560,
+                        "deny": 6144
+                    },
+                    {
+                        "roleName": "➱║ Default",
+                        "allow": 0,
+                        "deny": 474112
+                    },
+                    {
+                        "roleName": "➱║ Bots",
+                        "allow": 334912,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "➦║◦「💨」𝒱erificación",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Verificación",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 66560,
+                                "deny": 6144
+                            },
+                            {
+                                "roleName": "➱║ Default",
+                                "allow": 0,
+                                "deny": 97280
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "• Información",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 72704
+                    },
+                    {
+                        "roleName": "➱║ Bots",
+                        "allow": 465920,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "➦║◦「📢」anuncios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Información",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 72704
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「📂」información",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Información",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 72704
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「🎊」giveaways",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Información",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 72704
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「📜」reglamento",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Información",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 72704
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「🔒」sanciones",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Información",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 72704
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「📝」pruebas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Información",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 72704
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "• Chats",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 80896
+                    },
+                    {
+                        "roleName": "➱║ Bots",
+                        "allow": 465920,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "➦║◦「🌍」chat-general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Chats",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 80896
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「💻」comandos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Chats",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 80896
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「🎁」rewards",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Chats",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 80896
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「🎥」multimedia",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Chats",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 80896
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「💭」sugerencias",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Chats",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 80896
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「🌈」niveles",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Chats",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 80896
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「💬」join",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Chats",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 80896
+                            },
+                            {
+                                "roleName": "➱║ Bots",
+                                "allow": 465920,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "• Ayuda",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 72704
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "➦║◦「🔒」ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Ayuda",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 72704
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "• Evaluación Hosting",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 72704
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "➦║◦「🌈」evaluation",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Evaluación Hosting",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 72704
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "➦║◦「🎌」feedback",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "• Evaluación Hosting",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 72704
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "ByteHs+",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 25
+        },
+        {
+            "name": "• Cupula Administrativa",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 24
+        },
+        {
+            "name": "➱║ Security",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 23
+        },
+        {
+            "name": "➱║ Ceo",
+            "color": "#ff0000",
+            "hoist": false,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 22
+        },
+        {
+            "name": "➱║ Owner",
+            "color": "#233ab4",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 21
+        },
+        {
+            "name": "➱║ Management",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 20
+        },
+        {
+            "name": "• Support Team",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 19
+        },
+        {
+            "name": "➱║ Dev",
+            "color": "#206694",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 18
+        },
+        {
+            "name": "➱║ Technical",
+            "color": "#e67e22",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 17
+        },
+        {
+            "name": "➱║ Support",
+            "color": "#3ac434",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 16
+        },
+        {
+            "name": "➱║ System Admin",
+            "color": "#a84300",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 15
+        },
+        {
+            "name": "➱║ Node Master",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 14
+        },
+        {
+            "name": "• Staff",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 13
+        },
+        {
+            "name": "➱║ Admin",
+            "color": "#e91e63",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 12
+        },
+        {
+            "name": "➱║ Mod",
+            "color": "#e74c00",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 11
+        },
+        {
+            "name": "➱║ Staff",
+            "color": "#17a7be",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 10
+        },
+        {
+            "name": "• Ranks",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 9
+        },
+        {
+            "name": "➱║ Vip+",
+            "color": "#50e033",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 8
+        },
+        {
+            "name": "➱║ Vip",
+            "color": "#9b59b6",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 7
+        },
+        {
+            "name": "➱║ Customer",
+            "color": "#e67e22",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 6
+        },
+        {
+            "name": "➱║ Partner",
+            "color": "#9b59b6",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 5
+        },
+        {
+            "name": "• Members Rank",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 4
+        },
+        {
+            "name": "➱║ Default",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 3
+        },
+        {
+            "name": "➱║ Bots",
+            "color": "#95a5a6",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 2
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1603961177833,
+    "guildID": "771267091369558036",
+    "id": "771293825028194304"
+}

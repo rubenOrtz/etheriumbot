@@ -1,0 +1,174 @@
+{
+    "name": "El servidor de Thomàs",
+    "region": "brazil",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [],
+        "others": [
+            {
+                "type": "text",
+                "name": "general",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [],
+                "messages": [
+                    {
+                        "username": "Thomàs",
+                        "avatar": "https://cdn.discordapp.com/avatars/615360256922484757/a_f1848ff51ddf08a3d6d3445d0877a3fa.webp",
+                        "content": "?b-crear",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Etherium Security",
+                        "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": "**Información sobre las copias de seguridad**",
+                                "type": "rich",
+                                "description": null,
+                                "url": null,
+                                "timestamp": "2020-12-28T16:00:53.292Z",
+                                "color": 11,
+                                "fields": [
+                                    {
+                                        "name": "?b-crear <a:ES_verified:770984597437022220>",
+                                        "value": "**Crea una copia de seguridad de TODO el servidor**",
+                                        "inline": false
+                                    },
+                                    {
+                                        "name": "?b-cargar [ID] <a:ES_verified:770984597437022220>",
+                                        "value": "**Carga una copia de seguridad a un servidor**",
+                                        "inline": false
+                                    },
+                                    {
+                                        "name": "?b-eliminar[ID] <a:ES_verified:770984597437022220>",
+                                        "value": "**Elimina una copia de seguridad**",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": null,
+                                "footer": {
+                                    "text": "Etherium Security",
+                                    "icon_url": "https://images-ext-2.discordapp.net/external/aDQVETPoT8vIkU-nF3gGPkpVIBbP-PmLdlZ_JkZ6vT0/https/thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Thomàs",
+                        "avatar": "https://cdn.discordapp.com/avatars/615360256922484757/a_f1848ff51ddf08a3d6d3445d0877a3fa.webp",
+                        "content": "?backup",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Thomàs",
+                        "avatar": "https://cdn.discordapp.com/avatars/615360256922484757/a_f1848ff51ddf08a3d6d3445d0877a3fa.webp",
+                        "content": "?baclup",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Thomàs",
+                        "avatar": "https://cdn.discordapp.com/avatars/615360256922484757/a_f1848ff51ddf08a3d6d3445d0877a3fa.webp",
+                        "content": "?b-create",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Thomàs",
+                        "avatar": "https://cdn.discordapp.com/avatars/615360256922484757/a_f1848ff51ddf08a3d6d3445d0877a3fa.webp",
+                        "content": "?b-cargar 770563423917441029",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Thomàs",
+                        "avatar": "https://cdn.discordapp.com/avatars/615360256922484757/a_f1848ff51ddf08a3d6d3445d0877a3fa.webp",
+                        "content": "?b-cargar 771921020503326720",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Thomàs",
+                        "avatar": "https://cdn.discordapp.com/avatars/615360256922484757/a_f1848ff51ddf08a3d6d3445d0877a3fa.webp",
+                        "content": "?b-cargar 770563423917441029",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Thomàs",
+                        "avatar": "https://cdn.discordapp.com/avatars/615360256922484757/a_f1848ff51ddf08a3d6d3445d0877a3fa.webp",
+                        "content": "?b-cargar 790299795980943370",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Etherium Security",
+                        "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": "Syntax Error: `backup-load`__`<Backup-ID>`__",
+                                "url": null,
+                                "timestamp": "2020-12-28T15:54:46.577Z",
+                                "color": 15158332,
+                                "fields": [],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": {
+                                    "name": "Etherium Security"
+                                },
+                                "footer": {
+                                    "text": "Etherium Security"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    }
+                ],
+                "isNews": false
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "*",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 1
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1609171256049,
+    "guildID": "793135800559861770",
+    "id": "793146476929875969"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "El servidor de Thomàs",
+    "region": "brazil",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [],
+        "others": [
+            {
+                "type": "text",
+                "name": "general",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [],
+                "messages": [],
+                "isNews": false
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "*",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 1
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1609171256047,
+    "guildID": "793135800559861770",
+    "id": "793146476921487360"
+}

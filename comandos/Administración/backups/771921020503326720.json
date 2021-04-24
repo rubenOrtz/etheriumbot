@@ -1,0 +1,2760 @@
+{
+    "name": "Blacking Hosting | Discord Oficial",
+    "region": "us-east",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ALL",
+    "afk": {
+        "name": "『AFK』",
+        "timeout": 3600
+    },
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "❆↽⇀〔Welcome〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 3072
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 270535760
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1,
+                        "deny": 3088
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 1025,
+                        "deny": 2064
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 3073,
+                        "deny": 268435472
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 3073,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 3073,
+                        "deny": 805306384
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「👋」welcome",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Welcome〕↽⇀❆",
+                        "topic": "Welcome our new amazing members here!!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 270535760
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1,
+                                "deny": 3088
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 1025,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3073,
+                                "deny": 268435472
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 3073,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 3073,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「✅」verify",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Welcome〕↽⇀❆",
+                        "topic": "To gain access to the whole server verify by reacting to the massage",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 270535760
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1,
+                                "deny": 3088
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 1025,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 2049,
+                                "deny": 268436496
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「📨」invites",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Welcome〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 270535760
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 1025,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3073,
+                                "deny": 268435472
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 3073,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 3073,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔INFORMATION〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 3136
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 1024,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1025,
+                        "deny": 2128
+                    },
+                    {
+                        "roleName": "🤖BOT DEV🤖",
+                        "allow": 1,
+                        "deny": 2064
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 2065,
+                        "deny": 805307392
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 2065,
+                        "deny": 805307392
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 2065,
+                        "deny": 805307392
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「📜」rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔INFORMATION〕↽⇀❆",
+                        "topic": "Here is some info about the server and some rules you need to follow!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1024,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 2128
+                            },
+                            {
+                                "roleName": "🤖BOT DEV🤖",
+                                "allow": 1,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 2049,
+                                "deny": 805307408
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「📁」information",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔INFORMATION〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3136
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1024,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 2128
+                            },
+                            {
+                                "roleName": "🤖BOT DEV🤖",
+                                "allow": 1,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 65537,
+                        "deny": 268438544
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 197632,
+                        "deny": 807405648
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 66561,
+                        "deny": 805308432
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 871890769,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 199681,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 68609,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 66560,
+                        "deny": 805308432
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「📢」announcement",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": "The @:loudspeaker:announcement :loudspeaker: will get notifications here.\n<a:5203_pink_flame:719440042753261579>",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🛎」upgrade",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「♾」twitter",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🕵」support-apply",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 197632,
+                                "deny": 805308433
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308433
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308433
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🎁」events",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": "The @:partying_face:Events:partying_face: will get notifications here. you can win give aways its very rare but it can happen",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438608
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308496
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 805374993,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「⚡」server-boosters",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": "When somebody boosts this server a massage will come saying that they have **boosted** this server.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🤓」proof",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🎬」media-ranks",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「⛔」sanctions",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔NITRO BOOST〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 269552720
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 808455248
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 0,
+                        "deny": 269552720
+                    },
+                    {
+                        "roleName": "🚀NITRO BOOSTER🚀",
+                        "allow": 1051648,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「🚀」chat-booster",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔NITRO BOOST〕↽⇀❆",
+                        "topic": "Discord server booster perms can be found here",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 269487184
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 807406672
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 65536,
+                                "deny": 269487184
+                            },
+                            {
+                                "roleName": "🚀NITRO BOOSTER🚀",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "「🚀」talk-with-people",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "❆↽⇀〔NITRO BOOST〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 269552720
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 807406672
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 269552720
+                            },
+                            {
+                                "roleName": "🚀NITRO BOOSTER🚀",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔CHATTING〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 2048,
+                        "deny": 805438481
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 1025,
+                        "deny": 807409744
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 3073,
+                        "deny": 131072
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 3072,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 1025,
+                        "deny": 805437456
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805437456
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805437456
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「👥」chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 4,
+                        "parent": "❆↽⇀〔CHATTING〕↽⇀❆",
+                        "topic": "<a:686599260552036457:725637615679701052>\nThis is the channel where you chat with people and stuff! so it's just general.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805440529
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 807409744
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3073,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🤣」meme",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "❆↽⇀〔CHATTING〕↽⇀❆",
+                        "topic": "send funny memes here (no spamming)",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805440529
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 807409744
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3073,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「👾」level",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "❆↽⇀〔CHATTING〕↽⇀❆",
+                        "topic": "the bot will shows that you leavel upped",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805440529
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 807409744
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 133120
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔Media〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 2048,
+                        "deny": 132096
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1024,
+                        "deny": 131072
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 805307408,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 805307408,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「📰」media",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Media〕↽⇀❆",
+                        "topic": "First read the rules and then post. You can post images here.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1024,
+                                "deny": 133120
+                            },
+                            {
+                                "roleName": "🎥MEDIA🎥",
+                                "allow": 252928,
+                                "deny": 805576785
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「👉👈」alianzas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Media〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 2048,
+                                "deny": 132096
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1024,
+                                "deny": 133120
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 536871936,
+                                "deny": 268437520
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔FUN & GAMES〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 2048,
+                        "deny": 132096
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 1025,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1025,
+                        "deny": 131072
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 3072,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 805307409,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「🤖」bot-commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "❆↽⇀〔FUN & GAMES〕↽⇀❆",
+                        "topic": "do bot commands here!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 132096
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 805307409,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🔟」counting",
+                        "nsfw": false,
+                        "rateLimitPerUser": 60,
+                        "parent": "❆↽⇀〔FUN & GAMES〕↽⇀❆",
+                        "topic": "do counting here ...",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 132096
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 805307409,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔SALES〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 2049
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 66560,
+                        "deny": 264257
+                    },
+                    {
+                        "roleName": "🛡️SUPPORT🛡️",
+                        "allow": 66560,
+                        "deny": 805468177
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 66624,
+                        "deny": 805705745
+                    },
+                    {
+                        "roleName": "🛡️Sr MODERATER🛡️",
+                        "allow": 66560,
+                        "deny": 805468241
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1024,
+                        "deny": 805451857
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 66560,
+                        "deny": 805443665
+                    },
+                    {
+                        "roleName": "🛡️GERENTE🛡️",
+                        "allow": 66560,
+                        "deny": 805468241
+                    },
+                    {
+                        "roleName": "👑Co-Owner👑",
+                        "allow": 66560,
+                        "deny": 145473
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「💰」vps",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔SALES〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66560,
+                                "deny": 264257
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 66560,
+                                "deny": 805468177
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 66624,
+                                "deny": 805705745
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805451857
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805443665
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 66560,
+                                "deny": 145473
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「💰」ts3",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔SALES〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66560,
+                                "deny": 264257
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 66560,
+                                "deny": 805468177
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 66624,
+                                "deny": 805705745
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805451857
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805443665
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 66560,
+                                "deny": 145473
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「💰」music-bot",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔SALES〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66560,
+                                "deny": 264257
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 66560,
+                                "deny": 805468177
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 66624,
+                                "deny": 805705745
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805451857
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805443665
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 66560,
+                                "deny": 145473
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「💰」iptv",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔SALES〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66560,
+                                "deny": 264257
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 66560,
+                                "deny": 805468177
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 66624,
+                                "deny": 805705745
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805451857
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805443665
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 66560,
+                                "deny": 145473
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔HELP〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 3072
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 1025,
+                        "deny": 2103360
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 7169,
+                        "deny": 131072
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 805309457,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「💡」suggestions",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "❆↽⇀〔HELP〕↽⇀❆",
+                        "topic": "suggest idea for channels and role or more.Use ^suggest [suggestion]",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 2103360
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 7169,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805309457,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🚨」soporte",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔HELP〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 2103360
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 7169,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805309457,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔Valoracion del Hosting〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 3073
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2112
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1024,
+                        "deny": 2049
+                    },
+                    {
+                        "roleName": "🚀NITRO BOOSTER🚀",
+                        "allow": 1024,
+                        "deny": 2049
+                    },
+                    {
+                        "roleName": "🤝 PARTNER🤝",
+                        "allow": 1024,
+                        "deny": 2049
+                    },
+                    {
+                        "roleName": "👑FRIENDS👑",
+                        "allow": 1024,
+                        "deny": 2048
+                    },
+                    {
+                        "roleName": "🎥MEDIA🎥",
+                        "allow": 1024,
+                        "deny": 2049
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「⛤」valoración",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Valoracion del Hosting〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🤝 PARTNER🤝",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "👑FRIENDS👑",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🎥MEDIA🎥",
+                                "allow": 1024,
+                                "deny": 2049
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「✔」feedback",
+                        "nsfw": false,
+                        "rateLimitPerUser": 300,
+                        "parent": "❆↽⇀〔Valoracion del Hosting〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3072,
+                                "deny": 1
+                            },
+                            {
+                                "roleName": "👑FRIENDS👑",
+                                "allow": 3072,
+                                "deny": 1
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔Music〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 3072,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『music-request』",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🎶 • Music(Rythm)",
+                        "bitrate": 64000,
+                        "userLimit": 8,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🎶 • Music(Rythm 2)",
+                        "bitrate": 64000,
+                        "userLimit": 15,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🎼』lyrics",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3072,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🎶 • Music(Octave)",
+                        "bitrate": 64000,
+                        "userLimit": 15,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔Sleeping〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2099264
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "『AFK』",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "❆↽⇀〔Sleeping〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔STAFF〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 805321744
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2112576
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 0,
+                        "deny": 15360
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 805317649,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️SUPPORT🛡️",
+                        "allow": 3072,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 68608,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️Sr MODERATER🛡️",
+                        "allow": 3072,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️GERENTE🛡️",
+                        "allow": 3072,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🔐↣｜STAFF",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "🔱CEO🔱",
+                                "allow": 3072,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "moderator-only",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜staff-rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜staff-chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805309457,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜ideas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805309457,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜anuncios-commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 2048,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 67584,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 2048,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 2048,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 0,
+                                "deny": 1024
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "ALL PERMS",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37211721,
+            "mentionable": false,
+            "position": 36
+        },
+        {
+            "name": "『         IMPORTANT PEOPLE                』",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 32
+        },
+        {
+            "name": "🔱CEO🔱",
+            "color": "#923200",
+            "hoist": true,
+            "permissions": 37211721,
+            "mentionable": true,
+            "position": 31
+        },
+        {
+            "name": "👑Founder👑",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": 536346623,
+            "mentionable": false,
+            "position": 30
+        },
+        {
+            "name": "👑Co-Owner👑",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": 2117598935,
+            "mentionable": false,
+            "position": 29
+        },
+        {
+            "name": "《《《《《《STAFF ROLES》》》》",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 28
+        },
+        {
+            "name": "🛡️GERENTE🛡️",
+            "color": "#277ecd",
+            "hoist": true,
+            "permissions": 2146959063,
+            "mentionable": false,
+            "position": 27
+        },
+        {
+            "name": "🛡️Sr ADMIN🛡️",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 1177931459,
+            "mentionable": false,
+            "position": 26
+        },
+        {
+            "name": "🛡️ADMIN🛡️",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 1177931459,
+            "mentionable": false,
+            "position": 25
+        },
+        {
+            "name": "🛡️Sr MODERATER🛡️",
+            "color": "#277ecd",
+            "hoist": true,
+            "permissions": 1207434947,
+            "mentionable": false,
+            "position": 24
+        },
+        {
+            "name": "🛡️MODERATOR🛡️",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 1207434819,
+            "mentionable": false,
+            "position": 23
+        },
+        {
+            "name": "🛡️SUPPORT🛡️",
+            "color": "#277ecd",
+            "hoist": true,
+            "permissions": 259391041,
+            "mentionable": true,
+            "position": 22
+        },
+        {
+            "name": "🤖BOT DEV🤖",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 21
+        },
+        {
+            "name": "《《《《《《EXTRA》》》》》",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 20
+        },
+        {
+            "name": "🚀NITRO BOOSTER🚀",
+            "color": "#9b59b6",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 19
+        },
+        {
+            "name": "⛤CLIENTES⛤",
+            "color": "#edcd55",
+            "hoist": true,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 18
+        },
+        {
+            "name": "👑FRIENDS👑",
+            "color": "#d6680e",
+            "hoist": true,
+            "permissions": 104197697,
+            "mentionable": false,
+            "position": 17
+        },
+        {
+            "name": "🤝 PARTNER🤝",
+            "color": "#970045",
+            "hoist": true,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 16
+        },
+        {
+            "name": "🎥MEDIA🎥",
+            "color": "#ad1457",
+            "hoist": true,
+            "permissions": 37211713,
+            "mentionable": true,
+            "position": 15
+        },
+        {
+            "name": "✔️VERIFIED✔️",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": 36818433,
+            "mentionable": false,
+            "position": 14
+        },
+        {
+            "name": "🤖BOT🤖",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 2146959071,
+            "mentionable": false,
+            "position": 13
+        },
+        {
+            "name": "《《《《《《ACTIVITY》》》》》》",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 12
+        },
+        {
+            "name": "🥇ACTIVO🥇",
+            "color": "#ae6800",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 11
+        },
+        {
+            "name": "《《《《《MEMBER INFO》》》》",
+            "color": "#2f3136",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 10
+        },
+        {
+            "name": "❌MUTED ❌",
+            "color": "#f4424b",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 9
+        },
+        {
+            "name": "《《《《《《PING ROLES》》》》》",
+            "color": "#2f3136",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 8
+        }
+    ],
+    "bans": [
+        {
+            "id": "607380936635580447",
+            "reason": null
+        }
+    ],
+    "emojis": [
+        {
+            "name": "h2",
+            "base64": "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"
+        }
+    ],
+    "createdTimestamp": 1604110712887,
+    "guildID": "763898549846147082",
+    "id": "771921020503326720",
+    "iconBase64": "UklGRlAFAABXRUJQVlA4IEQFAAAwGwCdASqAAIAAPm02lkikIqIhJJOZwIANiUAa60An4cXXxjEGd6cqc4vbF+YDzZvRv6AH9A/uXWEfth7AHljftx8Hn9+/5npc6sexn/JcrnKesL/aSIFat/x+9d+F82u4o/1HHF0AP0N6GGfV6T/7/uE/rj1kvRAIBt3d3ahu7uxBfE+Pd1OnfD1fvXIIP5bJCZMgtfdWFicGCKe8u2xF+6c28xYIEHzQmVJq4AGQU9aiL74B087ion9ak7Zd1max0ROtvx9lTyK48khL8wsI8wxxK0bws9fiIiIiIiIiIhuAAP78jU8+OMAP2sKUxgVQfjGvD011xhMeH/zIKlw9nwGMBt/Qj3mYftO9LT2Am4sSmk1XqomWsaaP3+29Qb8wG8X5poRp/6JYhuAOXvrprtmN5pdSRWQzsGdPOQOeBa8SOi71ei8PO6TVBTfXkSbytgJTfz++rF/lrz0TBWDR2jwaEJghso812qwe1/GO8K63/qmfwKegP8LvuTrVj16IahQm1mQC+hjlTieNgxQYJnv2JGG3UuroQGRoq7TS0BloIa//p5YfONGKuvW+M4aQoMNLMjl0Fn4qSJ40BFte1gD6fI2CozRZAUvveP8ySgKdv4GtaAHJ6Ygmg63bye39EtR7/fpHFXwRBQGxxdUpmiP/GmpDfDPaD4ssL7Z9P7dYVeRjpNETPhN+6HeTjE26FAst1QcB5rEZtfwsGH57zQLJH5TYRKiIWOIQ6/VZCu8mtQPXFbIrL3S8p02RMlPzRY+BFDWo039E9kS8ITByqjYoCBCEPufitVMl0qAkYGb6j8qW4O0dJ6L6NIZwHT+E8sxrhKHkj513/kOhSXyp46gbz/jsS3CLst5N18IMxRqUvAS9OyZrYOGsLpi2tc9cqBfnBXp9yT0D5T7zF+utEtKkdX30vu4EHcsbGG4Co2vi/JTYGsXaAh8E37zbJOL53nbX+WIOJEKwrwbS/x6d5tXleYdoZ5AT9fb+MFITksD3qp+orCw7QwW/Wn36mPqLIhf90JCLhz0jOOhJzRtZu61ulamwWWkBId2ntlpAc8oqVsgSE+UOh7ZoQSYjPd58RY7/FgQABF2XanGh4f0YU4+dI2oJ88C1o7n4krlnZJjr69QWkxh4FLuivFtwTf/n/0xpa1JlUUBqPAiX84tgyOoGA8pFcl17CamazGerHDU+ehaCfmOyQvbYyZJEvWmcDXANQr7lFwu//A38FBPrTApqPNNdB13ZfACerbjdMb+kum1Ve9QEhgPZ0jpgHgCAoS/+0rw6OkjvNLxUpF+JvmW7fNac81y036wjG7/sdEqEXkAhXi+/eaf/W2HyHoAXqFWQUE3VNLh7CFVDV+U5LWKmj+4Xji03hMq/hrZeqjRfUh3pub058IUvmf85om+yfx/719+vfgcsXY0tTJE/gaE9RX2KyFegXDKkrwQNZyyMkGPz5y/b9eACGw+aVsNdY22AA+iw4/ZGZtHxzrYvzsFiKfgvL1zzRuqUxN7vYiYhh5UZ/18IN4r316dJxALI6yz8NdCJw7g6Y9FKc1FjnGVTV0AX3v4Fde460escrPP1x8mQp5P/2nW/gSLMqSJGjql8tbQk8e30OTIfphZ+Zq5THIeijULUffNXkAPD9ZdCNc9+xEbx7QvoUhPp0mli0iKy+HJ2xbsy/bnMsLac+vuEs2G/BYNUBzLhjGHebvTFwa3RB6OrCn7WbRqG2vgo5Z7w5j4/AIOc6Xx9Q/onfHL5Bf5b10uA4P8pisvz8mn575zpt0F9SHzhwKR4WAAAAAAA",
+    "iconURL": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.webp"
+}

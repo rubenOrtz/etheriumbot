@@ -1,0 +1,3873 @@
+{
+    "name": "Blacking Hosting | Discord Oficial",
+    "region": "us-east",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ALL",
+    "afk": {
+        "name": "『AFK』",
+        "timeout": 3600
+    },
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "❆↽⇀〔Welcome〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 3072
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 270535760
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1,
+                        "deny": 3088
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 1025,
+                        "deny": 2064
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 3073,
+                        "deny": 268435472
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 3073,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 3073,
+                        "deny": 805306384
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「👋」welcome",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Welcome〕↽⇀❆",
+                        "topic": "Welcome our new amazing members here!!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 270535760
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1,
+                                "deny": 3088
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 1025,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3073,
+                                "deny": 268435472
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 3073,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 3073,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/763898550081814559/769011403084267540/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/763898550081814559/768680451044802590/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/763898550081814559/768287477018001408/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/763898550081814559/768068073902571520/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/763898550081814559/768012986400899092/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/763898550081814559/767195976154480650/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/763898550081814559/767113787911438336/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [],
+                                "files": [
+                                    {
+                                        "name": "welcome.png",
+                                        "attachment": "https://cdn.discordapp.com/attachments/763898550081814559/766891568123871232/welcome.png"
+                                    }
+                                ],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「✅」verify",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Welcome〕↽⇀❆",
+                        "topic": "To gain access to the whole server verify by reacting to the massage",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 270535760
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1,
+                                "deny": 3088
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 1025,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 2049,
+                                "deny": 268436496
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Zira",
+                                "avatar": "https://cdn.discordapp.com/avatars/275813801792634880/c5aa73ada782a9b75feb2916b54edc33.webp",
+                                "content": "**﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏\n\n                       Verificacion\n\nHola Usuario presente , te damos la bienvenida BlackingHS\npor la seguridad del Discord oficial de BlackingHS tienes que verificarte\n\n¿Cómo me verifico?\nBueno para verificarte solo tienes que reaccionar con este Símbolo ✅\n\n¿Por qué me tengo que verificar?\nTienes que verificarte para que los usuario no tengan una mala experiencia dentro del discord y también para protegernos de los bots que quieren dañar nuestro discord.\n\nSi tienes un problema con la Verificación por favor contactar a un @🔱CEO🔱 o @👑Founder👑 \n\n﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「📨」invites",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Welcome〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 270535760
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 1025,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3073,
+                                "deny": 268435472
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 3073,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 3073,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "InviteLogger classic",
+                                "avatar": "https://cdn.discordapp.com/avatars/617497548743245835/27a3208738965e5ae9fcf581cbdd4f32.webp",
+                                "content": "@​!            Dxrih_ **joined**; Invited by **CEO | _zUnknown** (**3** invites)",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "InviteLogger classic",
+                                "avatar": "https://cdn.discordapp.com/avatars/617497548743245835/27a3208738965e5ae9fcf581cbdd4f32.webp",
+                                "content": "@​$ 𝒀𝒂𝒔𝒉𝒊𝒓𝒐𝒉 🚬 **joined**; Invited by **CEO | _zUnknown** (**2** invites)",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "InviteLogger classic",
+                                "avatar": "https://cdn.discordapp.com/avatars/617497548743245835/27a3208738965e5ae9fcf581cbdd4f32.webp",
+                                "content": "@​Mauri **joined**; Invited by **SrRodri | ᵈᵉᵛ |** (**2** invites)",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "InviteLogger classic",
+                                "avatar": "https://cdn.discordapp.com/avatars/617497548743245835/27a3208738965e5ae9fcf581cbdd4f32.webp",
+                                "content": "@​MartoOo | ᵈᵉᵛ | **joined**; Invited by **SrRodri | ᵈᵉᵛ |** (**1** invites)",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔INFORMATION〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 3136
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 1024,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1025,
+                        "deny": 2128
+                    },
+                    {
+                        "roleName": "🤖BOT DEV🤖",
+                        "allow": 1,
+                        "deny": 2064
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 2065,
+                        "deny": 805307392
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 2065,
+                        "deny": 805307392
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 2065,
+                        "deny": 805307392
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「📜」rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔INFORMATION〕↽⇀❆",
+                        "topic": "Here is some info about the server and some rules you need to follow!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1024,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 2128
+                            },
+                            {
+                                "roleName": "🤖BOT DEV🤖",
+                                "allow": 1,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 2049,
+                                "deny": 805307408
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "**12 - [ DDoS / Doxing ]\nPrimera sanción : [PermaBan](1/1)\n\n13 - [ Pedir Roles / Rangos ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Kick](2/3)\nTercera sanción : [TempBan 1d](3/3)\n\n14 - [ Suplantación de rangos/identidad ]\nPrimera sanción : [TempBan 1d](1/3)\nSegunda sanción : [TempBan 7d](2/3)\nTercera sanción : [PermBan](3/3)\n15 - [ Aprovechar bugs del Bot de economía ]\nPrimera sanción : [PermaBan](1/1)\n\n16 - [ Enviar videos sin ser @🎥MEDIA🎥  ]\nPrimera sanción : [Advertencia + Borrar mensaje](1/3)\nSegunda sanción : [ Expulsión + Borrar mensaje](2/3)\nTercera sanción : [TempBan 2h + Borrar mensaje](3/3)\n\n17 - [ Saltar / Skippear música que tu no colocaste ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsión](2/3)\nTercera sanción : [TempBan 1h](3/3)\n\n18 - [ Ingresar con alt's para conseguir reward's ]\nPrimera sanción : [PermaBan](1/1)\n\n19 - [ Enviár Links ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsión](2/3)\nTercera sanción : [TempBan](3/3)\n\n20 - [ Taggear a todo un rol ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsion](2/3)\nTercera sanción : [TempBan](3/3)\n\n21 - [ Nombres / Apodos ofensivos ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsión](2/3)\nTercera sanción : [TempBan](3/3)\n\n22 - [ Filtrar información PRIVADA ]\nPrimera sanción : [Kick](1/3)\nSegunda sanción : [TempBan 14d](2/3)\nTercera sanción : [PermaBan](3/3)\n\n23 - [ Cuentas Alternativas ]\nLas alts en el Discord no están permitidas.\n La única excepción que hace a está normativa, es si te creas una Alting porque recientemente fuiste sancionado del servidor (baneado) y quieres saber la razón del mismo. Pero ésta misma solo servira para crear un ticket\nPrimera sanción : [PermaBan](1/1)\n\n24 - [ Spam IP's de otros servidores de Minecraft ] \nPrimera sanción : [Kick + Borrar mensaje](1/3)\nSegunda sanción : [TempBan 7d + Borrar mensaje](2/3)\nTercera sanción : [PermaBan + Borrar mesaje](3/3)\nPing: @everyone  **",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "**--> Blacking Hosting <--\n\n0 - [ Escribir / usar canales fuera de contexto ]\nPrimera sanción : [Advertencia] (1/3)\nSegunda sanción : [Kick] (2/3)\nTercera sanción : [TempBan] (12hs)\n\n1 - [ Enviár invitaciones de otros Discords  > Virtual / MD ]\nPrimera sanción : [Advertencia + borrar mensaje] (1/3)\nSegunda sanción : [Tempban + borrar mensaje] (2/3)\nTercera sanción : [Ban permanente + borrar mensaje] (3/3)\n\n2 - [ Spam / Flood ]\nPrimera sanción : [Advertencia + borrar mensaje (En caso de ser spam)] (1/3)\n`Segunda sanción : [Kick + borrar mensaje (En caso de ser spam)] (2/3)\nTercera sanción : [TempBan 1d] (3/3)\n\n3 - [ Mandar contenido (Video, Gif, Foto, etc) +18 ]\nPrimera sanción : [Advertencia + borrar mensaje](1/3)\nSegunda sanción : [TempBan](2/3)\nTercera sanción : [BanPermanente](3/3)\n\n4 - [  Insultar a usuarios / Staff  ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsión](2/3)\nTercera sanción : [TempBan 1d](3/3)\n\n5 - [ Insultos hacia el Hosting / Servidor ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [TempBan 1d](2/3)\nTercera sanción : [TempBan 3d](3/3)\n\n6 - [ Pasar IP's / Key's Logger's ]\nPrimera sanción : [Ban Permanente] (1/1)\n\n7 - [  Incomodar en las salas de Voz ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsión](2/3)\nTercera sanción : [TempBan 1d](3/3)\n\n8 - [  Colocar audios Ruidosos / Gemidos / Troll's, etc ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsión](2/3)\nTercera sanción : [TempBan 30m](3/3)\n\n9 - [ Crear tickets sin necesidad de ayuda relacionada al Hosting / Discord ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsión](2/3)\nTercera sanción : [TemBan 1h](3/3)\n\n10 - [ Taggear al Staff  ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsión](2/3)\nTercera sanción : [TempBan 1d](3/3)\n\n11 - [ Crear mas de un Ticket a la vez ]\nPrimera sanción : [Advertencia](1/3)\nSegunda sanción : [Expulsión](2/3)\nTercera sanción : [TempBan](3/3)**",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「📁」information",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔INFORMATION〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3136
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1024,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 2128
+                            },
+                            {
+                                "roleName": "🤖BOT DEV🤖",
+                                "allow": 1,
+                                "deny": 2064
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 2065,
+                                "deny": 805307392
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "**===》INFORMACIÓN 《===\nPagina Web: Soon.. ♻\nYoutube: Blacking Hosting\nTwitter: @HsBlacking\nTeamSpeak: Soon.. ♻\nFacebook: Soon.. ♻\nPing: ||@everyone|| **",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 65537,
+                        "deny": 268438544
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 197632,
+                        "deny": 807405648
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 66561,
+                        "deny": 805308432
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 871890769,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 199681,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 68609,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 66560,
+                        "deny": 805308432
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「📢」announcement",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": "The @:loudspeaker:announcement :loudspeaker: will get notifications here.\n<a:5203_pink_flame:719440042753261579>",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🛎」upgrade",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「♾」twitter",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🕵」support-apply",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 197632,
+                                "deny": 805308433
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308433
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308433
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🎁」events",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": "The @:partying_face:Events:partying_face: will get notifications here. you can win give aways its very rare but it can happen",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438608
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308496
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 805374993,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「⚡」server-boosters",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": "When somebody boosts this server a massage will come saying that they have **boosted** this server.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "**    BlackingHS-Boost\n\n⛤ 1 Boost's = TeamSpeak 50 Slots 3 Month's \n⛤2 Boost's = 1 Panel | Musicbot's (TeamSpeak & Discord) for 1 Month\n⛤3 Boost's = TeamSpeak 150 Slots Permanente  + 1 Panel | Musicbot's for 1 Month\n⛤4 Boost's = VPS 4 GB RAM for 1 Month's\n\nLa persona que retire el Boost's solamente para reclamar uno de nuestros Servicios, se le quitará y no obtendrá futuras recompensas que haya dentro de nuestro servidor, le pedimos porfavor que no retiren su Mejora del servidor, Muchas Gracias.\nPing: @everyone **",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🤓」proof",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🎬」media-ranks",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "**En este canal se verá los requisitos y beneficios del rango media\n\nYoutuber: 350 Subscriptores + 80 visitas por video y en cada vídeo que suban una mini intro mostrando la pág web o el discord y comentando los productos que vendemos EJ: \"Les vengo a enseñar está empresa que se llama \"Blacking Hosting\" la cual tiene diferentes tipos de productos los cuales son: VPS, Music Bots, TeamSpeak3's y IPTV recuerden que la info está en la descripción\" + En la descripción poner: \nBlackingHS\nDiscord: (una invitación de ustedes)\nTeamspeak3: Soon..\nTwitter: @HSBlacking\nWeb: Soon..\n\nBeneficios: Próximamente\nRecuerden que si cumplen con los requisitos de: 350 subs + 80 visitas por video creen un ticket en #「🚨」soporte  y lo piden!\nPing: @everyone  **",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「⛔」sanctions",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔ANNOUNCEMENTS〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65537,
+                                "deny": 268438544
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 197632,
+                                "deny": 807405648
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66561,
+                                "deny": 805308432
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 871890769,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 199681,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 68609,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔NITRO BOOST〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 269552720
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 808455248
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 0,
+                        "deny": 269552720
+                    },
+                    {
+                        "roleName": "🚀NITRO BOOSTER🚀",
+                        "allow": 1051648,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「🚀」chat-booster",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔NITRO BOOST〕↽⇀❆",
+                        "topic": "Discord server booster perms can be found here",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 65536,
+                                "deny": 269487184
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 807406672
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 65536,
+                                "deny": 269487184
+                            },
+                            {
+                                "roleName": "🚀NITRO BOOSTER🚀",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "「🚀」talk-with-people",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "❆↽⇀〔NITRO BOOST〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 269552720
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 807406672
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 269552720
+                            },
+                            {
+                                "roleName": "🚀NITRO BOOSTER🚀",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔CHATTING〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 2048,
+                        "deny": 805438481
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 1025,
+                        "deny": 807409744
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 3073,
+                        "deny": 131072
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 3072,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 1025,
+                        "deny": 805437456
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805437456
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805437456
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「👥」chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 4,
+                        "parent": "❆↽⇀〔CHATTING〕↽⇀❆",
+                        "topic": "<a:686599260552036457:725637615679701052>\nThis is the channel where you chat with people and stuff! so it's just general.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805440529
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 807409744
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3073,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "iCongelado",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+                                "content": "@​Ramanuel #「📰」media",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "iCongelado",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+                                "content": "Que raro",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "iCongelado",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+                                "content": "Spam en chat?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "!            Dxrih_",
+                                "avatar": "https://cdn.discordapp.com/avatars/530572684036276245/c7016087a49d67a903497c628cc9c804.webp",
+                                "content": "El que se unio a Apolon Network que se salga son unos corruptos",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "F",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "Ya no soy gerente. :(",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "iCongelado",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+                                "content": "F",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "iCongelado",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+                                "content": "Hola",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "jajjaja",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "Good bye",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🤣」meme",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "❆↽⇀〔CHATTING〕↽⇀❆",
+                        "topic": "send funny memes here (no spamming)",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805440529
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 807409744
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3073,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「👾」level",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "❆↽⇀〔CHATTING〕↽⇀❆",
+                        "topic": "the bot will shows that you leavel upped",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805440529
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 807409744
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 133120
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805437456
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "GG @​ICongelado_, you just advanced to level 1!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "GG @​Chilenitoo, you just advanced to level 1!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "MEE6",
+                                "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.webp",
+                                "content": "GG @​CEO | _zUnknown, you just advanced to level 2!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔Media〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 2048,
+                        "deny": 132096
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1024,
+                        "deny": 131072
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 0,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 805307408,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 805307408,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「📰」media",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Media〕↽⇀❆",
+                        "topic": "First read the rules and then post. You can post images here.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1024,
+                                "deny": 133120
+                            },
+                            {
+                                "roleName": "🎥MEDIA🎥",
+                                "allow": 252928,
+                                "deny": 805576785
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「👉👈」alianzas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Media〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 2048,
+                                "deny": 132096
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1024,
+                                "deny": 133120
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1024,
+                                "deny": 2048
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 536871936,
+                                "deny": 268437520
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805308432
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔FUN & GAMES〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 2048,
+                        "deny": 132096
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 1025,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1025,
+                        "deny": 131072
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 3072,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 805307409,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 1025,
+                        "deny": 805306384
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「🤖」bot-commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": "❆↽⇀〔FUN & GAMES〕↽⇀❆",
+                        "topic": "do bot commands here!",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 132096
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 805307409,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🔟」counting",
+                        "nsfw": false,
+                        "rateLimitPerUser": 60,
+                        "parent": "❆↽⇀〔FUN & GAMES〕↽⇀❆",
+                        "topic": "do counting here ...",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 132096
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1025,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 3072,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 805307409,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1025,
+                                "deny": 805306384
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "iCongelado",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+                                "content": "6",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "5",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "iCongelado",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+                                "content": "4",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "3",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "2",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "iCongelado",
+                                "avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
+                                "content": "1",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔SALES〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 2049
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 66560,
+                        "deny": 264257
+                    },
+                    {
+                        "roleName": "🛡️SUPPORT🛡️",
+                        "allow": 66560,
+                        "deny": 805468177
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 66624,
+                        "deny": 805705745
+                    },
+                    {
+                        "roleName": "🛡️Sr MODERATER🛡️",
+                        "allow": 66560,
+                        "deny": 805468241
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1024,
+                        "deny": 805451857
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 66560,
+                        "deny": 805443665
+                    },
+                    {
+                        "roleName": "🛡️GERENTE🛡️",
+                        "allow": 66560,
+                        "deny": 805468241
+                    },
+                    {
+                        "roleName": "👑Co-Owner👑",
+                        "allow": 66560,
+                        "deny": 145473
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「💰」vps",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔SALES〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66560,
+                                "deny": 264257
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 66560,
+                                "deny": 805468177
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 66624,
+                                "deny": 805705745
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805451857
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805443665
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 66560,
+                                "deny": 145473
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "Soon...",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「💰」ts3",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔SALES〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66560,
+                                "deny": 264257
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 66560,
+                                "deny": 805468177
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 66624,
+                                "deny": 805705745
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805451857
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805443665
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 66560,
+                                "deny": 145473
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "**--------» TeamSpeak «--------\n---------------------------------\n             TeamSpeak #1\n----------------------------------\n+ 50 Slots\n+ 460 GPS Anti-DDos\n+ Servicio Permanente\n+ Sin Publicidad\n+ Ubicacion: USA\n+ ||Precio: 2.00 USD||\n ---------------------------------\n            TeamSpeak #2\n ---------------------------------\n+ 100 Slots\n+ 460 GPS Anti-DDos\n+ Servicio Permanente\n+ Sin Publicidad\n+ Ubicacion: USA\n+ ||Precio: 4.00 USD||\n  --------------------------------\n            TeamSpeak #3\n  --------------------------------\n+ 200 Slots\n+ 460 GPS Anti-DDos\n+ Servicio Permanente\n+ Sin Publicidad\n+ Ubicacion: USA\n+ ||Precio: 6.00 USD||\n  ---------------------------------\n             TeamSpeak #4\n  ---------------------------------\n+ 550 Slots\n+ 460 GPS Anti-DDos\n+ Servicio Permanente\n+ Sin Publicidad\n+ Ubicacion: USA\n+ ||Precio: 7.00 USD||\n  ---------------------------------\n             TeamSpeak #2\n  ---------------------------------\n+ 1000 Slots\n+ 460 GPS Anti-DDos\n+ Servicio Permanente\n+ Sin Publicidad\n+ Ubicacion: USA\n+ ||Precio: 8.00 USD||\n----------------------------------\nPing: @everyone **",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「💰」music-bot",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔SALES〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66560,
+                                "deny": 264257
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 66560,
+                                "deny": 805468177
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 66624,
+                                "deny": 805705745
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805451857
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805443665
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 66560,
+                                "deny": 145473
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "**--------» Music Bots «--------\n---------------------------------\n         MusicBot Mensual\n---------------------------------\n+ x2 MusicBot\n+ 460 GPS Anti-DDos\n+ Servicio Mensual\n+ Sin Publicidad\n+ 99.99% PlayList\n+ 999 Canciones\n+ Ubicacion: USA\n+ ||Precio: 4.00 USD||\n---------------------------------\n        TeamSpeak #2\n---------------------------------\n+x2 MusicBot\n+460 GPS Anti-DDos\n+ Servicio Permanente\n+ Sin Publicidad\n+ 99.99% PlayList\n+ 999 Canciones\n+ Ubicacion: USA\n+ || Precio: 8.00 USD||\n--------------------------------**\nPing: @everyone",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": true
+                    },
+                    {
+                        "type": "text",
+                        "name": "「💰」iptv",
+                        "nsfw": false,
+                        "parent": "❆↽⇀〔SALES〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 66560,
+                                "deny": 264257
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 66560,
+                                "deny": 805468177
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 66624,
+                                "deny": 805705745
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 805451857
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 66560,
+                                "deny": 805443665
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 66560,
+                                "deny": 805468241
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 66560,
+                                "deny": 145473
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "**--------------------------------------------------------------------------------------\nContrata televisión con tan sólo un click.\n¿¡Cuales son los beneficios al contratar IPTV!?\n- Contiene más de 5000 Canales, estreno los cuáles destacan fox Sport, discovery kids, HBO, entre otros. \n- Conexión rápida y estable. \n- Plataforma con una reproducción HD. \n- Aplicación compatible con Android, IPhone, windows, iOS, Xbox, PlayStation, smart tv. \n- Fácil de usar. \n- Se puede conectar en múltiples dispositivos. \n- Este servicio es mucho más económico que servicios de tv. \n- Reproducción rápida.\n- Canales para adultos. (+18)\nContamos con precios muy accesibles y económicos. \nPrecios:\n||$5.00 usd 1 mes - 1 dispositivo||\n||$6.00 usd 1 mes - 2 dispositivo||\n||$7.00 usd 1 mes - 3 dispositivo||\nIPTV está disponible para el público de Venezuela, perú, chile, El salvador, Honduras, Argentina, Bolivia,Ecuador, España, Colombia,  México, Guatemala y Panamá.\n-----------------------------------------------------------------------------------------\n- También ofrecemos una prueba gratis a nuestros clientes , por si desea probar el servicio durante 30min o 1 hora.\n- No esperes más y contrata televisión de forma más económica, IPTV es para ti. Si tienes alguna duda o quieres más información hazmelo saber al privado o por discord: _zUnknown#5391 (Inbox).\n¡Métodos De Pago!\n- PayPal\n- Skrill\n- BTC (PaxFull)\nPing: @everyone  **",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": true
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔HELP〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 3072
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 1025,
+                        "deny": 2103360
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 7169,
+                        "deny": 131072
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 805309457,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「💡」suggestions",
+                        "nsfw": false,
+                        "rateLimitPerUser": 21600,
+                        "parent": "❆↽⇀〔HELP〕↽⇀❆",
+                        "topic": "suggest idea for channels and role or more.Use ^suggest [suggestion]",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 2103360
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 7169,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805309457,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「🚨」soporte",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔HELP〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 2103360
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 7169,
+                                "deny": 131072
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805309457,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Ticket Tool",
+                                "avatar": "https://cdn.discordapp.com/avatars/557628352828014614/04cdd55608f6f9942c9ab3bbcab3932c.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "¿Quieres Soporte? Reacciona  📩",
+                                        "timestamp": null,
+                                        "color": 3706428,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "http://localhost/?panel_id=545033724726615195&panel_type=panel",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/iqL_fa26IYChJ5twhXwsauGFptuw-nQG46I924U-C1o/%3Fpanel_id%3D545033724726615195%26panel_type%3Dpanel/http/localhost/",
+                                            "height": 0,
+                                            "width": 0
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Tickets"
+                                        },
+                                        "footer": {
+                                            "text": "TicketTool.xyz - Ticketing without clutter",
+                                            "icon_url": "https://tickettool.xyz/images/footer.png"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔Valoracion del Hosting〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 3073
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2112
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 1024,
+                        "deny": 2049
+                    },
+                    {
+                        "roleName": "🚀NITRO BOOSTER🚀",
+                        "allow": 1024,
+                        "deny": 2049
+                    },
+                    {
+                        "roleName": "🤝 PARTNER🤝",
+                        "allow": 1024,
+                        "deny": 2049
+                    },
+                    {
+                        "roleName": "👑FRIENDS👑",
+                        "allow": 1024,
+                        "deny": 2048
+                    },
+                    {
+                        "roleName": "🎥MEDIA🎥",
+                        "allow": 1024,
+                        "deny": 2049
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "「⛤」valoración",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Valoracion del Hosting〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🤝 PARTNER🤝",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "👑FRIENDS👑",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 2049
+                            },
+                            {
+                                "roleName": "🎥MEDIA🎥",
+                                "allow": 1024,
+                                "deny": 2049
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "**  <:h2:766886185678143490> BlackingHS (Hosting) <:h2:766886185678143490> \n\nValoracion de Servicio , Calidad de nuestra ventas y el Servicio de Soporte\n\n⛤ Pésimo Servicio,Calidad,Servicio de Soporte \n⛤⛤Muy mal servicio,Calidad,Servicio de Soporte\n⛤⛤⛤Buen Servicio,Calidad,Servicio de Soporte\n⛤⛤⛤⛤Muy buen Servicio,Calidad,Servicio de Soporte\n⛤⛤⛤⛤⛤Excelente Servicio,Calidad,Servicio de Soporte\nPing: @everyone **",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "「✔」feedback",
+                        "nsfw": false,
+                        "rateLimitPerUser": 300,
+                        "parent": "❆↽⇀〔Valoracion del Hosting〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3072,
+                                "deny": 1
+                            },
+                            {
+                                "roleName": "👑FRIENDS👑",
+                                "allow": 3072,
+                                "deny": 1
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔Music〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2099264
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 3072,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『music-request』",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🎶 • Music(Rythm)",
+                        "bitrate": 64000,
+                        "userLimit": 8,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🎶 • Music(Rythm 2)",
+                        "bitrate": 64000,
+                        "userLimit": 15,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🎼』lyrics",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3072,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🎶 • Music(Octave)",
+                        "bitrate": 64000,
+                        "userLimit": 15,
+                        "parent": "❆↽⇀〔Music〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔Sleeping〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 1024
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2099264
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "『AFK』",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "❆↽⇀〔Sleeping〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 7474704
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 1025,
+                                "deny": 7342656
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 3149312,
+                                "deny": 37879872
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "❆↽⇀〔STAFF〕↽⇀❆",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 0,
+                        "deny": 805321744
+                    },
+                    {
+                        "roleName": "❌MUTED ❌",
+                        "allow": 0,
+                        "deny": 2112576
+                    },
+                    {
+                        "roleName": "✔️VERIFIED✔️",
+                        "allow": 0,
+                        "deny": 15360
+                    },
+                    {
+                        "roleName": "🤖BOT🤖",
+                        "allow": 805317649,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️SUPPORT🛡️",
+                        "allow": 3072,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️MODERATOR🛡️",
+                        "allow": 68608,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️Sr MODERATER🛡️",
+                        "allow": 3072,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️ADMIN🛡️",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️Sr ADMIN🛡️",
+                        "allow": 1024,
+                        "deny": 0
+                    },
+                    {
+                        "roleName": "🛡️GERENTE🛡️",
+                        "allow": 3072,
+                        "deny": 0
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🔐↣｜STAFF",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            },
+                            {
+                                "roleName": "🔱CEO🔱",
+                                "allow": 3072,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "moderator-only",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2099264
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Community Updates",
+                                "avatar": "https://cdn.discordapp.com/avatars/669627189624307712/8530249cc2b90d3d9d92ae8bd55cbfce.webp",
+                                "content": "Se ha configurado este canal para que reciba anuncios oficiales de Discord para los administradores y los moderadores de los servidores de comunidades. Te avisaremos por aquí cuando haya actualizaciones importantes, como nuevas características de moderación o cambios en los requisitos de tu servidor para aparecer en Descubrimiento de servidor.\n\nPuedes modificar el canal al que van dirigidos estos mensajes en cualquier momento desde Ajustes del servidor. Te recomendamos que elijas el canal de tu equipo, ya que hay cierta información que podría afectar a tu servidor.\n\n¡Gracias por elegir Discord para crear tu comunidad!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Community Updates",
+                                "avatar": "https://cdn.discordapp.com/avatars/669627189624307712/8530249cc2b90d3d9d92ae8bd55cbfce.webp",
+                                "content": "This channel has been set up to receive official Discord announcements for admins and moderators of Community servers. We'll let you know about important updates, such as new moderation features or changes to your server's eligibility for Server Discovery, here.\n\nYou can change which channel these messages are sent to at any time inside Server Settings. We recommend choosing your staff channel, as some information may be sensitive to your server.\n\nThanks for choosing Discord as the place to build your community!",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜staff-rules",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "<a:r1:765031130701234177>  **Reglas a Seguir** <a:r1:765031130701234177> \n\n**1- No hablar por el chat general a menos que sea para resolver una duda**\n\n**2- El Staff que atendió un ticket tiene que terminar de atenderlo el**\n\n**3- No dar mala imagen del servidor **\n\n**4- Mantenerte con un Margen de Madures frente a todas las situaciones posibles**\n\n**5- Tener buena ortografía al momento de escribir**\n\n**6- Mantenerte con actividad**\n\n**7- Ser eficiente en el momento en el cual tengas que atender un ticket**\n\n**Si incumples demasiadas veces con algunas de estas reglas se te demoteara automaticamente** <a:2283_BongoCatBanHammer:759620421955485707> \n\n**ATTE:** @​Chilenitoo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜staff-chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805309457,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "Ok",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "Asi",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "Mal Uso de CANALES\nPrimer sancion: advertencia\nSegunda sancion: blablabla",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "Ejemplo",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "Pero quiero mostrando lassanciones",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "Ya le dije al founder pero si tu quierrs lo puedes hacer",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "Para los usuarios xdxd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "Supongo que tambien tengo que hacer las reglas generales",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Chilenitoo",
+                                "avatar": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.webp",
+                                "content": "Ok no tengo problemas",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "Puede encargarte de las reglas?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Etherium Security",
+                                "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "**La ID del BackUp fue enviada a tu MD!**",
+                                        "timestamp": null,
+                                        "color": 11,
+                                        "fields": [],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                            "proxyURL": "https://images-ext-1.discordapp.net/external/O_sZZG3Hy4ShGWOKailULbO35fvM1Q5l0vFEGG3P6VI/https/cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "🔒 ¡Backup creado con éxito! 🔒"
+                                        },
+                                        "footer": {
+                                            "text": "Etherium Security",
+                                            "icon_url": "https://images-ext-2.discordapp.net/external/aDQVETPoT8vIkU-nF3gGPkpVIBbP-PmLdlZ_JkZ6vT0/https/thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "es/b-crear",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Etherium Security",
+                                "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "**Información sobre las copias de seguridad**",
+                                        "type": "rich",
+                                        "timestamp": "2020-10-31T02:18:22.891Z",
+                                        "color": 11,
+                                        "fields": [
+                                            {
+                                                "name": "es/b-crear <a:ES_verified:770984597437022220>",
+                                                "value": "**Crea una copia de seguridad de TODO el servidor**",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "es/b-cargar [ID] <a:ES_verified:770984597437022220>",
+                                                "value": "**Carga una copia de seguridad a un servidor**",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "es/b-eliminar[ID] <a:ES_verified:770984597437022220>",
+                                                "value": "**Elimina una copia de seguridad**",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "Etherium Security",
+                                            "icon_url": "https://images-ext-2.discordapp.net/external/aDQVETPoT8vIkU-nF3gGPkpVIBbP-PmLdlZ_JkZ6vT0/https/thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "es/Backup",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Etherium Security",
+                                "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "❌ Debes mencionar o colocar la id de un usuario!",
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "sb/md",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "sb/anunciar #「📢」announcement  asd",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Etherium Security",
+                                "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "❌ > Debes especificar el canal!",
+                                        "timestamp": null,
+                                        "color": 15158332,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": null
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "sb/anunciar",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Etherium Security",
+                                "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Ayuda!",
+                                        "type": "rich",
+                                        "description": "``¡Se envió el panel de ayuda a tu DM, Revisalo!``",
+                                        "timestamp": "2020-10-21T01:54:00.965Z",
+                                        "color": 11,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "- SpaceBot -",
+                                            "icon_url": "https://cdn.discordapp.com/attachments/762690923787976716/763237169455169586/tenor.gif"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜ideas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 3072,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805309457,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 1024,
+                                "deny": 0
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "<@!763822711608311838> was given the **🎥MEDIA🎥** role.",
+                                        "timestamp": "2020-10-30T19:05:09.302Z",
+                                        "color": 3447003,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "iCongelado#0418",
+                                            "icon_url": "https://cdn.discordapp.com/embed/avatars/3.png"
+                                        },
+                                        "footer": {
+                                            "text": "ID: 763822711608311838"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "<@!763822711608311838> was given the **🥇ACTIVO🥇** role.",
+                                        "timestamp": "2020-10-30T19:05:05.562Z",
+                                        "color": 3447003,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "iCongelado#0418",
+                                            "icon_url": "https://cdn.discordapp.com/embed/avatars/3.png"
+                                        },
+                                        "footer": {
+                                            "text": "ID: 763822711608311838"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "<@!763822711608311838> was given the **《《《《《MEMBER INFO》》》》** role.",
+                                        "timestamp": "2020-10-30T19:05:04.891Z",
+                                        "color": 3447003,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "iCongelado#0418",
+                                            "icon_url": "https://cdn.discordapp.com/embed/avatars/3.png"
+                                        },
+                                        "footer": {
+                                            "text": "ID: 763822711608311838"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "<@!763822711608311838> was given the **《《《《《《PING ROLES》》》》》** role.",
+                                        "timestamp": "2020-10-30T19:05:02.678Z",
+                                        "color": 3447003,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "iCongelado#0418",
+                                            "icon_url": "https://cdn.discordapp.com/embed/avatars/3.png"
+                                        },
+                                        "footer": {
+                                            "text": "ID: 763822711608311838"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "**Role Edited**\nEtherium Security (768287471833448488)",
+                                        "timestamp": "2020-10-29T23:00:52.095Z",
+                                        "color": 3447003,
+                                        "fields": [
+                                            {
+                                                "name": "Role Name Before",
+                                                "value": "SpaceBot",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Role Name After",
+                                                "value": "Etherium Security",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/p8ag61RFQNJ9Mlrn17CbfmABA_GuzZkIJk542_49ImA/https/cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Blacking Hosting | Discord Oficial (763898549846147082)",
+                                            "icon_url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png"
+                                        },
+                                        "footer": {
+                                            "text": "ID: 768287471833448488"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "**Role Edited**\n🤝 PARTNER🤝 (763898549900410942)",
+                                        "timestamp": "2020-10-23T17:48:18.955Z",
+                                        "color": 3447003,
+                                        "fields": [
+                                            {
+                                                "name": "Role Name Before",
+                                                "value": "🤝 Partner🤝",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Role Name After",
+                                                "value": "🤝 PARTNER🤝",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/p8ag61RFQNJ9Mlrn17CbfmABA_GuzZkIJk542_49ImA/https/cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Blacking Hosting | Discord Oficial (763898549846147082)",
+                                            "icon_url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png"
+                                        },
+                                        "footer": {
+                                            "text": "ID: 763898549900410942"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "**Role Edited**\n👑FRIENDS👑 (763898549900410943)",
+                                        "timestamp": "2020-10-23T17:48:05.824Z",
+                                        "color": 3447003,
+                                        "fields": [
+                                            {
+                                                "name": "Role Name Before",
+                                                "value": "👑Friends👑",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Role Name After",
+                                                "value": "👑FRIENDS👑",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/p8ag61RFQNJ9Mlrn17CbfmABA_GuzZkIJk542_49ImA/https/cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Blacking Hosting | Discord Oficial (763898549846147082)",
+                                            "icon_url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png"
+                                        },
+                                        "footer": {
+                                            "text": "ID: 763898549900410943"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "**Channel Edited**\n「📁」information <#763898550081814563>",
+                                        "timestamp": "2020-10-23T17:06:42.893Z",
+                                        "color": 3447003,
+                                        "fields": [
+                                            {
+                                                "name": "Channel Name Before",
+                                                "value": "「📁」channel-information",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Channel Name After",
+                                                "value": "「📁」information",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/p8ag61RFQNJ9Mlrn17CbfmABA_GuzZkIJk542_49ImA/https/cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Blacking Hosting | Discord Oficial (763898549846147082)",
+                                            "icon_url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.png"
+                                        },
+                                        "footer": {
+                                            "text": "ID: 763898550081814563"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "<@640355435286888477> nickname changed",
+                                        "timestamp": "2020-10-23T01:43:22.877Z",
+                                        "color": 3447003,
+                                        "fields": [
+                                            {
+                                                "name": "Nickname Before",
+                                                "value": "Co-Owner | Ramanuel",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Nickname After",
+                                                "value": "None",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": {
+                                            "name": "Ramanuel#9778",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/640355435286888477/e9c16ffdaea3b7aec1bc7c6ecd49ac95.png"
+                                        },
+                                        "footer": {
+                                            "text": "ID: 640355435286888477"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Koya",
+                                "avatar": "https://cdn.discordapp.com/avatars/276060004262477825/be6b1119f84ea4848afa4dfb72396623.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "type": "rich",
+                                        "description": "**📤 <@530084804813651970> left the server.**",
+                                        "timestamp": "2020-10-23T01:38:57.191Z",
+                                        "color": 15158332,
+                                        "fields": [
+                                            {
+                                                "name": "Member for",
+                                                "value": "5 days.",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.gif",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/Add_yzsooBckZ5lK0c5QAplq109vt7HQSIwB_D_tL_Y/https/cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.gif",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Chilenitoo#9999",
+                                            "icon_url": "https://cdn.discordapp.com/avatars/530084804813651970/a_5b2928df2f8ceb66e6b1a520b6c31445.gif"
+                                        },
+                                        "footer": {
+                                            "text": "User ID: 530084804813651970"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🔐↣｜anuncios-commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "❆↽⇀〔STAFF〕↽⇀❆",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 805321744
+                            },
+                            {
+                                "roleName": "❌MUTED ❌",
+                                "allow": 0,
+                                "deny": 2112576
+                            },
+                            {
+                                "roleName": "✔️VERIFIED✔️",
+                                "allow": 0,
+                                "deny": 15360
+                            },
+                            {
+                                "roleName": "🤖BOT🤖",
+                                "allow": 805317649,
+                                "deny": 0
+                            },
+                            {
+                                "roleName": "🛡️SUPPORT🛡️",
+                                "allow": 2048,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️MODERATOR🛡️",
+                                "allow": 67584,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️Sr MODERATER🛡️",
+                                "allow": 2048,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️ADMIN🛡️",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️Sr ADMIN🛡️",
+                                "allow": 0,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "🛡️GERENTE🛡️",
+                                "allow": 2048,
+                                "deny": 1024
+                            },
+                            {
+                                "roleName": "👑Co-Owner👑",
+                                "allow": 0,
+                                "deny": 1024
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "username": "Etherium Security",
+                                "avatar": "https://cdn.discordapp.com/avatars/756650662015664208/524652214a2950b3c06ccc8c54668fe2.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Información del servidor",
+                                        "type": "rich",
+                                        "timestamp": "2020-10-21T01:57:36.178Z",
+                                        "color": 11,
+                                        "fields": [
+                                            {
+                                                "name": "ID",
+                                                "value": "``763898549846147082``",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Region",
+                                                "value": "``us-east``",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Creado el",
+                                                "value": "``Wed Oct 21 2020``",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Dueño del Servidor",
+                                                "value": "``_zUnknown#5391``",
+                                                "inline": true
+                                            },
+                                            {
+                                                "name": "Miembros",
+                                                "value": "``18``",
+                                                "inline": true
+                                            }
+                                        ],
+                                        "thumbnail": {
+                                            "url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.webp",
+                                            "proxyURL": "https://images-ext-2.discordapp.net/external/009ld853joxpMLNQ8pxK2w8t836K5d8SuyRkaKY8deI/https/cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.webp",
+                                            "height": 128,
+                                            "width": 128
+                                        },
+                                        "image": null,
+                                        "author": {
+                                            "name": "Blacking Hosting | Discord Oficial",
+                                            "icon_url": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.webp"
+                                        },
+                                        "footer": {
+                                            "text": "- SpaceBot -",
+                                            "icon_url": "https://cdn.discordapp.com/attachments/762690923787976716/763237169455169586/tenor.gif"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "sb/server",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "_zUnknown",
+                                "avatar": "https://cdn.discordapp.com/avatars/683781492807434289/073bf9d74650fb9d06543c2540e41bff.webp",
+                                "content": "v/say #「📢」announcement  Hola bb",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "ALL PERMS",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37211721,
+            "mentionable": false,
+            "position": 36
+        },
+        {
+            "name": "『         IMPORTANT PEOPLE                』",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 32
+        },
+        {
+            "name": "🔱CEO🔱",
+            "color": "#923200",
+            "hoist": true,
+            "permissions": 37211721,
+            "mentionable": true,
+            "position": 31
+        },
+        {
+            "name": "👑Founder👑",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": 536346623,
+            "mentionable": false,
+            "position": 30
+        },
+        {
+            "name": "👑Co-Owner👑",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": 2117598935,
+            "mentionable": false,
+            "position": 29
+        },
+        {
+            "name": "《《《《《《STAFF ROLES》》》》",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 28
+        },
+        {
+            "name": "🛡️GERENTE🛡️",
+            "color": "#277ecd",
+            "hoist": true,
+            "permissions": 2146959063,
+            "mentionable": false,
+            "position": 27
+        },
+        {
+            "name": "🛡️Sr ADMIN🛡️",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 1177931459,
+            "mentionable": false,
+            "position": 26
+        },
+        {
+            "name": "🛡️ADMIN🛡️",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 1177931459,
+            "mentionable": false,
+            "position": 25
+        },
+        {
+            "name": "🛡️Sr MODERATER🛡️",
+            "color": "#277ecd",
+            "hoist": true,
+            "permissions": 1207434947,
+            "mentionable": false,
+            "position": 24
+        },
+        {
+            "name": "🛡️MODERATOR🛡️",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 1207434819,
+            "mentionable": false,
+            "position": 23
+        },
+        {
+            "name": "🛡️SUPPORT🛡️",
+            "color": "#277ecd",
+            "hoist": true,
+            "permissions": 259391041,
+            "mentionable": true,
+            "position": 22
+        },
+        {
+            "name": "🤖BOT DEV🤖",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 21
+        },
+        {
+            "name": "《《《《《《EXTRA》》》》》",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 20
+        },
+        {
+            "name": "🚀NITRO BOOSTER🚀",
+            "color": "#9b59b6",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 19
+        },
+        {
+            "name": "⛤CLIENTES⛤",
+            "color": "#edcd55",
+            "hoist": true,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 18
+        },
+        {
+            "name": "👑FRIENDS👑",
+            "color": "#d6680e",
+            "hoist": true,
+            "permissions": 104197697,
+            "mentionable": false,
+            "position": 17
+        },
+        {
+            "name": "🤝 PARTNER🤝",
+            "color": "#970045",
+            "hoist": true,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 16
+        },
+        {
+            "name": "🎥MEDIA🎥",
+            "color": "#ad1457",
+            "hoist": true,
+            "permissions": 37211713,
+            "mentionable": true,
+            "position": 15
+        },
+        {
+            "name": "✔️VERIFIED✔️",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": 36818433,
+            "mentionable": false,
+            "position": 14
+        },
+        {
+            "name": "🤖BOT🤖",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 2146959071,
+            "mentionable": false,
+            "position": 13
+        },
+        {
+            "name": "《《《《《《ACTIVITY》》》》》》",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 12
+        },
+        {
+            "name": "🥇ACTIVO🥇",
+            "color": "#ae6800",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 11
+        },
+        {
+            "name": "《《《《《MEMBER INFO》》》》",
+            "color": "#2f3136",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 10
+        },
+        {
+            "name": "❌MUTED ❌",
+            "color": "#f4424b",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 9
+        },
+        {
+            "name": "《《《《《《PING ROLES》》》》》",
+            "color": "#2f3136",
+            "hoist": false,
+            "permissions": 37211713,
+            "mentionable": false,
+            "position": 8
+        }
+    ],
+    "bans": [
+        {
+            "id": "607380936635580447",
+            "reason": null
+        }
+    ],
+    "emojis": [
+        {
+            "name": "h2",
+            "url": "https://cdn.discordapp.com/emojis/766886185678143490.png"
+        }
+    ],
+    "createdTimestamp": 1604110712894,
+    "guildID": "763898549846147082",
+    "id": "771921020532686849",
+    "iconURL": "https://cdn.discordapp.com/icons/763898549846147082/5ab563eb09421c953720700860bcff87.webp"
+}

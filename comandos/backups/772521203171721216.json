@@ -1,0 +1,522 @@
+{
+    "name": "The Best Yts",
+    "region": "brazil",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": {
+        "name": "『🐑』AFK",
+        "timeout": 900
+    },
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "🌟│INFORMACIÓN│🌟",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『📋』reglas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌟│INFORMACIÓN│🌟",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『📣』anuncios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌟│INFORMACIÓN│🌟",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🎉』bienvenidas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌟│INFORMACIÓN│🌟",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『😔』despedidas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌟│INFORMACIÓN│🌟",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "📩│invitaciones│📩",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『🎯』invites",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📩│invitaciones│📩",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🎁』rewards",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📩│invitaciones│📩",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "🌏│PRINCIPAL│🌏",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『🗯』chat-general",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌏│PRINCIPAL│🌏",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『😂』memes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌏│PRINCIPAL│🌏",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🤖』comandos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌏│PRINCIPAL│🌏",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "😀│DIVERSIÓN│😀",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『💰』economía",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "😀│DIVERSIÓN│😀",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🎣』pesca",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "😀│DIVERSIÓN│😀",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🐍』zsurvive",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "😀│DIVERSIÓN│😀",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "🧭│OTROS│🧭",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "『🍀』sorteos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🧭│OTROS│🧭",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🥡』encuestas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🧭│OTROS│🧭",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "『🎳』niveles",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🧭│OTROS│🧭",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 2048
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "🎶│MÚSICA│🎶",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "『🎻』Música 1",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🎶│MÚSICA│🎶",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🎺』Música 2",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🎶│MÚSICA│🎶",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🎸』Música 3",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🎶│MÚSICA│🎶",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "🍪│PÚBLICO│🍪",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "『🔈』Publico 1",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🍪│PÚBLICO│🍪",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🔈』Publico 2",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🍪│PÚBLICO│🍪",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🔈』Publico 3",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🍪│PÚBLICO│🍪",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "🔐│PRIVADO│🔐",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "『🔱』Privado 1",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔐│PRIVADO│🔐",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 3145728
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🔱』Privado 2",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔐│PRIVADO│🔐",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 3145728
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "『🔱』Privado 3",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔐│PRIVADO│🔐",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 3145728
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "🔇│AFK│🔇",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "『🐑』AFK",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔇│AFK│🔇",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "💻│STAFF│💻",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "『🔈』Charla staff",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "💻│STAFF│💻",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3146752
+                            }
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "name": "『📂』chat-staff",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "💻│STAFF│💻",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 0,
+                                "deny": 3072
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "⌦【👑】Fundador",
+            "color": "#d7342a",
+            "hoist": true,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 12
+        },
+        {
+            "name": "⌦【💫】Co-Fundador",
+            "color": "#d6680e",
+            "hoist": true,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 11
+        },
+        {
+            "name": "⌦【🦄】Manager",
+            "color": "#ff00d1",
+            "hoist": true,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 10
+        },
+        {
+            "name": "⌦【🌋】Administrador",
+            "color": "#17ac86",
+            "hoist": true,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 9
+        },
+        {
+            "name": "⌦【🏗】Moderador",
+            "color": "#277ecd",
+            "hoist": true,
+            "permissions": 104320583,
+            "mentionable": false,
+            "position": 8
+        },
+        {
+            "name": "⌦【🛥】Helper",
+            "color": "#25c059",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 7
+        },
+        {
+            "name": "⌦【🚀】Miembro",
+            "color": "#e4b400",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 6
+        },
+        {
+            "name": "⌦【🤖】Bots",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 5
+        },
+        {
+            "name": "⌦【🤖】Bots Música",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 4
+        },
+        {
+            "name": "⌦【🤖】Bots Diversión",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 3
+        },
+        {
+            "name": "⌦【🤖】Otros Bots",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 2
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1604253807586,
+    "guildID": "772520230088867840",
+    "id": "772521203171721216"
+}
