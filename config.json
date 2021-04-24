@@ -1,0 +1,8 @@
+{
+    "token2": "TOKEN",
+    "token": "SECOND TOKEN FOR TESTING",
+    "prefix": "es/",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "MongoURL": "MONGOURL"
+}
